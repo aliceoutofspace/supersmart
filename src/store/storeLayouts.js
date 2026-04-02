@@ -29,23 +29,23 @@ export const reweLayout = {
   checkout: { x: R.LX, y: 354, width: 150, height: 18 },
   zones: [
     // Back wall — two halves
-    { id: 'dairy-l', label: 'Milch & Käse',         categories: ['dairy'],            visitOrder: 6,  x: R.LX, y: R.BY,    width: R.CW, height: R.BH },
-    { id: 'dairy-r', label: 'Joghurt & Quark',      categories: [],                   visitOrder: 6,  x: R.RX, y: R.BY,    width: R.CW, height: R.BH },
+    { id: 'dairy-l', label: 'Milk & Cheese',        categories: ['dairy'],            visitOrder: 6,  x: R.LX, y: R.BY,    width: R.CW, height: R.BH },
+    { id: 'dairy-r', label: 'Yogurt & Quark',       categories: [],                   visitOrder: 6,  x: R.RX, y: R.BY,    width: R.CW, height: R.BH },
     // Row 0 — deep (right=5 because we snake up right first)
-    { id: 'meat',      label: 'Fleisch & Wurst',     categories: ['meat'],             visitOrder: 5,  x: R.RX, y: R.ry(0), width: R.CW, height: R.RH },
-    { id: 'frozen',    label: 'Tiefkühl',             categories: ['frozen'],           visitOrder: 7,  x: R.LX, y: R.ry(0), width: R.CW, height: R.RH },
+    { id: 'meat',      label: 'Meat & Cold Cuts',    categories: ['meat'],             visitOrder: 5,  x: R.RX, y: R.ry(0), width: R.CW, height: R.RH },
+    { id: 'frozen',    label: 'Frozen',               categories: ['frozen'],           visitOrder: 7,  x: R.LX, y: R.ry(0), width: R.CW, height: R.RH },
     // Row 1
-    { id: 'household', label: 'Haushalt & Drogerie', categories: ['household'],        visitOrder: 4,  x: R.RX, y: R.ry(1), width: R.CW, height: R.RH },
-    { id: 'canned',    label: 'Konserven',            categories: ['canned'],           visitOrder: 8,  x: R.LX, y: R.ry(1), width: R.CW, height: R.RH },
+    { id: 'household', label: 'Household & Care',    categories: ['household'],        visitOrder: 4,  x: R.RX, y: R.ry(1), width: R.CW, height: R.RH },
+    { id: 'canned',    label: 'Canned Goods',         categories: ['canned'],           visitOrder: 8,  x: R.LX, y: R.ry(1), width: R.CW, height: R.RH },
     // Row 2
-    { id: 'beverages', label: 'Getränke',             categories: ['beverages'],        visitOrder: 3,  x: R.RX, y: R.ry(2), width: R.CW, height: R.RH },
-    { id: 'grains',    label: 'Teigwaren & Reis',     categories: ['grains', 'baking'], visitOrder: 9,  x: R.LX, y: R.ry(2), width: R.CW, height: R.RH },
+    { id: 'beverages', label: 'Beverages',            categories: ['beverages'],        visitOrder: 3,  x: R.RX, y: R.ry(2), width: R.CW, height: R.RH },
+    { id: 'grains',    label: 'Pasta & Rice',         categories: ['grains', 'baking'], visitOrder: 9,  x: R.LX, y: R.ry(2), width: R.CW, height: R.RH },
     // Row 3
-    { id: 'snacks',    label: 'Süßwaren & Snacks',    categories: ['snacks'],           visitOrder: 2,  x: R.RX, y: R.ry(3), width: R.CW, height: R.RH },
-    { id: 'bakery',    label: 'Backwaren',             categories: ['bakery'],           visitOrder: 10, x: R.LX, y: R.ry(3), width: R.CW, height: R.RH },
+    { id: 'snacks',    label: 'Sweets & Snacks',      categories: ['snacks'],           visitOrder: 2,  x: R.RX, y: R.ry(3), width: R.CW, height: R.RH },
+    { id: 'bakery',    label: 'Bakery',                categories: ['bakery'],           visitOrder: 10, x: R.LX, y: R.ry(3), width: R.CW, height: R.RH },
     // Row 4 — near entrance
-    { id: 'produce',   label: 'Obst & Gemüse',        categories: ['produce'],          visitOrder: 1,  x: R.RX, y: R.ry(4), width: R.CW, height: R.RH },
-    { id: 'spreads',   label: 'Kaffee & Frühstück',   categories: ['spreads'],          visitOrder: 11, x: R.LX, y: R.ry(4), width: R.CW, height: R.RH },
+    { id: 'produce',   label: 'Fruit & Veg',          categories: ['produce'],          visitOrder: 1,  x: R.RX, y: R.ry(4), width: R.CW, height: R.RH },
+    { id: 'spreads',   label: 'Coffee & Breakfast',   categories: ['spreads'],          visitOrder: 11, x: R.LX, y: R.ry(4), width: R.CW, height: R.RH },
   ],
 }
 
@@ -66,20 +66,20 @@ export const edekaLayout = {
   checkout: { x: E.LX, y: 352, width: 140, height: 20 },
   zones: [
     // Back — two halves
-    { id: 'dairy',     label: 'Milch & Käse',        categories: ['dairy'],            visitOrder: 5,  x: E.LX, y: E.BY,    width: E.CW, height: E.BH },
-    { id: 'deli',      label: 'Fleisch & Fisch',     categories: ['meat'],             visitOrder: 6,  x: E.RX, y: E.BY,    width: E.CW, height: E.BH },
+    { id: 'dairy',     label: 'Milk & Cheese',       categories: ['dairy'],            visitOrder: 5,  x: E.LX, y: E.BY,    width: E.CW, height: E.BH },
+    { id: 'deli',      label: 'Meat & Fish',          categories: ['meat'],             visitOrder: 6,  x: E.RX, y: E.BY,    width: E.CW, height: E.BH },
     // Row 0
-    { id: 'frozen',    label: 'Tiefkühl',             categories: ['frozen'],           visitOrder: 7,  x: E.LX, y: E.ry(0), width: E.CW, height: E.RH },
-    { id: 'household', label: 'Haushalt & Drogerie', categories: ['household'],        visitOrder: 4,  x: E.RX, y: E.ry(0), width: E.CW, height: E.RH },
+    { id: 'frozen',    label: 'Frozen',               categories: ['frozen'],           visitOrder: 7,  x: E.LX, y: E.ry(0), width: E.CW, height: E.RH },
+    { id: 'household', label: 'Household & Care',     categories: ['household'],        visitOrder: 4,  x: E.RX, y: E.ry(0), width: E.CW, height: E.RH },
     // Row 1
-    { id: 'canned',    label: 'Konserven',            categories: ['canned'],           visitOrder: 8,  x: E.LX, y: E.ry(1), width: E.CW, height: E.RH },
-    { id: 'beverages', label: 'Getränke',             categories: ['beverages'],        visitOrder: 3,  x: E.RX, y: E.ry(1), width: E.CW, height: E.RH },
+    { id: 'canned',    label: 'Canned Goods',          categories: ['canned'],           visitOrder: 8,  x: E.LX, y: E.ry(1), width: E.CW, height: E.RH },
+    { id: 'beverages', label: 'Beverages',             categories: ['beverages'],        visitOrder: 3,  x: E.RX, y: E.ry(1), width: E.CW, height: E.RH },
     // Row 2
-    { id: 'grains',    label: 'Teigwaren & Gewürze', categories: ['grains', 'baking'], visitOrder: 9,  x: E.LX, y: E.ry(2), width: E.CW, height: E.RH },
-    { id: 'snacks',    label: 'Snacks & Süßwaren',    categories: ['snacks', 'spreads'],visitOrder: 2,  x: E.RX, y: E.ry(2), width: E.CW, height: E.RH },
+    { id: 'grains',    label: 'Pasta & Spices',        categories: ['grains', 'baking'], visitOrder: 9,  x: E.LX, y: E.ry(2), width: E.CW, height: E.RH },
+    { id: 'snacks',    label: 'Snacks & Spreads',      categories: ['snacks', 'spreads'],visitOrder: 2,  x: E.RX, y: E.ry(2), width: E.CW, height: E.RH },
     // Row 3 — near entrance
-    { id: 'bakery',    label: 'Bäckerei',              categories: ['bakery'],           visitOrder: 10, x: E.LX, y: E.ry(3), width: E.CW, height: E.RH },
-    { id: 'produce',   label: 'Obst & Gemüse',        categories: ['produce'],          visitOrder: 1,  x: E.RX, y: E.ry(3), width: E.CW, height: E.RH },
+    { id: 'bakery',    label: 'Bakery',                categories: ['bakery'],           visitOrder: 10, x: E.LX, y: E.ry(3), width: E.CW, height: E.RH },
+    { id: 'produce',   label: 'Fruit & Veg',           categories: ['produce'],          visitOrder: 1,  x: E.RX, y: E.ry(3), width: E.CW, height: E.RH },
   ],
 }
 
@@ -87,30 +87,30 @@ export const edekaLayout = {
 // 3 rows only, very wide zones (220px), huge centre aisle (52px), tight gaps (12px)
 // Looks spare and open — typical discounter feel
 const A = (() => {
-  const MX = 12, CW = 210, MID = 56, BH = 24, RH = 42, RG = 14
+  const MX = 12, CW = 210, MID = 56, BH = 30, RH = 56, RG = 50
   const LX = MX, RX = MX + CW + MID   // 12, 278  →  12+210+56+210+12=500 ✓
   const BY = 10
-  const ry = (i) => BY + BH + 10 + i * (RH + RG)
+  const ry = (i) => BY + BH + 12 + i * (RH + RG)
   return { MX, CW, MID, BH, RH, RG, LX, RX, BY, ry }
 })()
 
 export const aldiLayout = {
   id: 'aldi', name: 'Aldi · Lidl', type: 'aldi', width: W, height: H,
   entrance: { x: 455, y: 382 },
-  checkout: { x: A.LX, y: 348, width: 180, height: 22 },
+  checkout: { x: A.LX, y: 334, width: 180, height: 22 },
   zones: [
     // Back — two halves
-    { id: 'dairy',     label: 'Milch · Käse · Joghurt', categories: ['dairy'],                      visitOrder: 4,  x: A.LX, y: A.BY,    width: A.CW, height: A.BH },
-    { id: 'chilled',   label: 'Wurst · Aufschnitt',      categories: ['meat'],                       visitOrder: 5,  x: A.RX, y: A.BY,    width: A.CW, height: A.BH },
+    { id: 'dairy',     label: 'Milk & Cheese',               categories: ['dairy'],                               visitOrder: 4,  x: A.LX, y: A.BY,    width: A.CW, height: A.BH },
+    { id: 'chilled',   label: 'Meat · Cold Cuts',            categories: ['meat'],                                visitOrder: 5,  x: A.RX, y: A.BY,    width: A.CW, height: A.BH },
     // Row 0
-    { id: 'grains',    label: 'Konserven · Teigwaren',   categories: ['canned','grains','baking'],   visitOrder: 6,  x: A.LX, y: A.ry(0), width: A.CW, height: A.RH },
-    { id: 'household', label: 'Haushalt & Drogerie',     categories: ['household'],                  visitOrder: 3,  x: A.RX, y: A.ry(0), width: A.CW, height: A.RH },
+    { id: 'grains',    label: 'Canned · Pasta · Spreads',    categories: ['canned', 'grains', 'baking', 'spreads'], visitOrder: 6, x: A.LX, y: A.ry(0), width: A.CW, height: A.RH },
+    { id: 'household', label: 'Household & Care',             categories: ['household'],                           visitOrder: 3,  x: A.RX, y: A.ry(0), width: A.CW, height: A.RH },
     // Row 1
-    { id: 'frozen',    label: 'Tiefkühl',                categories: ['frozen'],                     visitOrder: 7,  x: A.LX, y: A.ry(1), width: A.CW, height: A.RH },
-    { id: 'beverages', label: 'Getränke',                categories: ['beverages'],                  visitOrder: 2,  x: A.RX, y: A.ry(1), width: A.CW, height: A.RH },
+    { id: 'frozen',    label: 'Frozen',                       categories: ['frozen'],                              visitOrder: 7,  x: A.LX, y: A.ry(1), width: A.CW, height: A.RH },
+    { id: 'beverages', label: 'Beverages',                    categories: ['beverages'],                           visitOrder: 2,  x: A.RX, y: A.ry(1), width: A.CW, height: A.RH },
     // Row 2 — near entrance
-    { id: 'bakery',    label: 'Brot & Backwaren',        categories: ['bakery'],                     visitOrder: 8,  x: A.LX, y: A.ry(2), width: A.CW, height: A.RH },
-    { id: 'produce',   label: 'Obst & Gemüse',           categories: ['produce','snacks','spreads'],  visitOrder: 1,  x: A.RX, y: A.ry(2), width: A.CW, height: A.RH },
+    { id: 'bakery',    label: 'Bakery & Snacks',              categories: ['bakery', 'snacks'],                    visitOrder: 8,  x: A.LX, y: A.ry(2), width: A.CW, height: A.RH },
+    { id: 'produce',   label: 'Fruit & Veg',                  categories: ['produce'],                             visitOrder: 1,  x: A.RX, y: A.ry(2), width: A.CW, height: A.RH },
   ],
 }
 
@@ -131,26 +131,26 @@ export const kauflandLayout = {
   checkout: { x: W - K.MX - 150, y: 354, width: 150, height: 18 },
   zones: [
     // Back — two halves
-    { id: 'dairy',     label: 'Milch & Käse',          categories: ['dairy'],            visitOrder: 7,  x: K.LX, y: K.BY,    width: K.CW, height: K.BH },
-    { id: 'frozen-b',  label: 'Tiefkühl',               categories: ['frozen'],           visitOrder: 8,  x: K.RX, y: K.BY,    width: K.CW, height: K.BH },
+    { id: 'dairy',     label: 'Milk & Cheese',          categories: ['dairy'],            visitOrder: 7,  x: K.LX, y: K.BY,    width: K.CW, height: K.BH },
+    { id: 'frozen-b',  label: 'Frozen',                 categories: ['frozen'],           visitOrder: 8,  x: K.RX, y: K.BY,    width: K.CW, height: K.BH },
     // Row 0 (left col = first, snake goes up left)
-    { id: 'bakery',    label: 'Bäckerei & Café',        categories: ['bakery'],           visitOrder: 6,  x: K.LX, y: K.ry(0), width: K.CW, height: K.RH },
-    { id: 'snacks',    label: 'Süßwaren & Snacks',      categories: ['snacks','spreads'],  visitOrder: 9,  x: K.RX, y: K.ry(0), width: K.CW, height: K.RH },
+    { id: 'bakery',    label: 'Bakery & Café',           categories: ['bakery'],           visitOrder: 6,  x: K.LX, y: K.ry(0), width: K.CW, height: K.RH },
+    { id: 'snacks',    label: 'Sweets & Snacks',         categories: ['snacks','spreads'],  visitOrder: 9,  x: K.RX, y: K.ry(0), width: K.CW, height: K.RH },
     // Row 1
-    { id: 'grains',    label: 'Teigwaren & Reis',       categories: ['grains','baking'],  visitOrder: 5,  x: K.LX, y: K.ry(1), width: K.CW, height: K.RH },
-    { id: 'household', label: 'Haushalt & Drogerie',    categories: ['household'],        visitOrder: 10, x: K.RX, y: K.ry(1), width: K.CW, height: K.RH },
+    { id: 'grains',    label: 'Pasta & Rice',            categories: ['grains','baking'],  visitOrder: 5,  x: K.LX, y: K.ry(1), width: K.CW, height: K.RH },
+    { id: 'household', label: 'Household & Care',        categories: ['household'],        visitOrder: 10, x: K.RX, y: K.ry(1), width: K.CW, height: K.RH },
     // Row 2
-    { id: 'canned',    label: 'Konserven & Saucen',     categories: ['canned'],           visitOrder: 4,  x: K.LX, y: K.ry(2), width: K.CW, height: K.RH },
-    { id: 'beverages', label: 'Getränke',               categories: ['beverages'],        visitOrder: 11, x: K.RX, y: K.ry(2), width: K.CW, height: K.RH },
+    { id: 'canned',    label: 'Canned & Sauces',         categories: ['canned'],           visitOrder: 4,  x: K.LX, y: K.ry(2), width: K.CW, height: K.RH },
+    { id: 'beverages', label: 'Beverages',               categories: ['beverages'],        visitOrder: 11, x: K.RX, y: K.ry(2), width: K.CW, height: K.RH },
     // Row 3
-    { id: 'meat',      label: 'Fleisch & Fisch',        categories: ['meat'],             visitOrder: 3,  x: K.LX, y: K.ry(3), width: K.CW, height: K.RH },
-    { id: 'organic',   label: 'Bio-Ecke',               categories: [],                   visitOrder: 12, x: K.RX, y: K.ry(3), width: K.CW, height: K.RH },
+    { id: 'meat',      label: 'Meat & Fish',             categories: ['meat'],             visitOrder: 3,  x: K.LX, y: K.ry(3), width: K.CW, height: K.RH },
+    { id: 'organic',   label: 'Organic',                 categories: [],                   visitOrder: 12, x: K.RX, y: K.ry(3), width: K.CW, height: K.RH },
     // Row 4
-    { id: 'spreads',   label: 'Kaffee & Aufstriche',    categories: [],                   visitOrder: 2,  x: K.LX, y: K.ry(4), width: K.CW, height: K.RH },
-    { id: 'deli',      label: 'Feinkost',               categories: [],                   visitOrder: 13, x: K.RX, y: K.ry(4), width: K.CW, height: K.RH },
+    { id: 'spreads',   label: 'Coffee & Spreads',        categories: [],                   visitOrder: 2,  x: K.LX, y: K.ry(4), width: K.CW, height: K.RH },
+    { id: 'deli',      label: 'Deli',                    categories: [],                   visitOrder: 13, x: K.RX, y: K.ry(4), width: K.CW, height: K.RH },
     // Row 5 — near entrance (left = first for entrance-left)
-    { id: 'produce',   label: 'Obst & Gemüse',          categories: ['produce'],          visitOrder: 1,  x: K.LX, y: K.ry(5), width: K.CW, height: K.RH },
-    { id: 'flowers',   label: 'Blumen & Pflanzen',      categories: [],                   visitOrder: 14, x: K.RX, y: K.ry(5), width: K.CW, height: K.RH },
+    { id: 'produce',   label: 'Fruit & Veg',             categories: ['produce'],          visitOrder: 1,  x: K.LX, y: K.ry(5), width: K.CW, height: K.RH },
+    { id: 'flowers',   label: 'Flowers & Plants',        categories: [],                   visitOrder: 14, x: K.RX, y: K.ry(5), width: K.CW, height: K.RH },
   ],
 }
 
@@ -188,7 +188,7 @@ export function getLayoutForStore(store) {
   return all[hash % all.length]
 }
 
-// Deterministic position — vertically centered in zone row, x spread by id hash
+// Deterministic position — each category gets its own horizontal slot within the zone
 export function getProductPosition(product, storeLayout) {
   if (!storeLayout?.zones) return null
   const zone = storeLayout.zones.find(z => z.categories.includes(product.category))
@@ -201,9 +201,16 @@ export function getProductPosition(product, storeLayout) {
   }
   hash = Math.abs(hash)
 
-  const marginX = 20
-  const xRaw = zone.x + marginX + (hash % 10000) / 10000 * (zone.width - marginX * 2)
-  const x = Math.max(zone.x + marginX, Math.min(zone.x + zone.width - marginX, xRaw))
+  // Split zone into equal slots per category so different categories never overlap
+  const catCount = Math.max(zone.categories.length, 1)
+  const catIndex = zone.categories.indexOf(product.category)
+  const slotWidth = zone.width / catCount
+  const slotX = zone.x + catIndex * slotWidth
+
+  // Margin scales with slot size so dots stay well inside their slot
+  const marginX = Math.max(8, Math.floor(slotWidth * 0.12))
+  const xRaw = slotX + marginX + ((hash * 40503) % 100000) / 100000 * (slotWidth - marginX * 2)
+  const x = Math.max(slotX + marginX, Math.min(slotX + slotWidth - marginX, xRaw))
   const y = zone.y + zone.height / 2
 
   return { x, y, zoneId: zone.id, zoneName: zone.label, visitOrder: zone.visitOrder }

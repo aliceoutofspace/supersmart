@@ -160,18 +160,6 @@ export function StoreMap() {
               />
             ))}
 
-            {/* Zone labels */}
-            {storeLayout.zones?.map(zone => (
-              <text
-                key={`label-${zone.id}`}
-                x={zone.x + 6}
-                y={zone.y + 12}
-                className="store-map__zone-label"
-              >
-                {zone.label}
-              </text>
-            ))}
-
             {/* Checkout */}
             {storeLayout.checkout && (
               <g>
@@ -188,7 +176,7 @@ export function StoreMap() {
                   y={storeLayout.checkout.y + storeLayout.checkout.height / 2 + 1}
                   className="store-map__checkout-label"
                 >
-                  KASSE
+                  CHECKOUT
                 </text>
               </g>
             )}
@@ -204,7 +192,7 @@ export function StoreMap() {
                 />
                 <text
                   x={storeLayout.entrance.x}
-                  y={storeLayout.entrance.y + 4}
+                  y={storeLayout.entrance.y}
                   className="store-map__entrance-arrow"
                 >
                   ↑
@@ -214,7 +202,7 @@ export function StoreMap() {
                   y={storeLayout.entrance.y - 20}
                   className="store-map__entrance-text"
                 >
-                  EINGANG
+                  ENTRANCE
                 </text>
               </g>
             )}
@@ -288,6 +276,18 @@ export function StoreMap() {
                 </g>
               )
             })}
+
+            {/* Zone labels — rendered last so they always appear above product dots */}
+            {storeLayout.zones?.map(zone => (
+              <text
+                key={`label-${zone.id}`}
+                x={zone.x + 6}
+                y={zone.y + 12}
+                className="store-map__zone-label"
+              >
+                {zone.label}
+              </text>
+            ))}
           </svg>
         )}
       </div>
