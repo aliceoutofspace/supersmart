@@ -1,0 +1,93 @@
+/* ==========================================================================
+   Card Component Styles
+   ========================================================================== */
+
+.card {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  
+  /* Glassmorphism Effekt */
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  
+  /* Subtiler Border für Definition */
+  border: 1px solid var(--color-border);
+}
+
+/* --------------------------------------------------------------------------
+   Varianten
+   -------------------------------------------------------------------------- */
+
+.card--elevated {
+  background: var(--color-surface-elevated);
+  box-shadow: var(--shadow-md);
+}
+
+.card--interactive {
+  cursor: pointer;
+  transition: 
+    box-shadow var(--transition-normal),
+    transform var(--transition-normal);
+}
+
+.card--interactive:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+/* --------------------------------------------------------------------------
+   Padding Varianten
+   -------------------------------------------------------------------------- */
+
+.card--padding-none {
+  padding: 0;
+}
+
+.card--padding-sm {
+  padding: var(--space-md);
+}
+
+.card--padding-md {
+  padding: var(--space-lg);
+}
+
+.card--padding-lg {
+  padding: var(--space-xl);
+}
+
+/* --------------------------------------------------------------------------
+   Card Sections
+   -------------------------------------------------------------------------- */
+
+.card__header {
+  padding-bottom: var(--space-md);
+  border-bottom: 1px solid var(--color-border);
+  margin-bottom: var(--space-md);
+}
+
+.card__content {
+  /* Flexibles Wachstum */
+  flex: 1;
+}
+
+.card__footer {
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-border);
+  margin-top: var(--space-md);
+}
+
+/* Wenn Header/Footer in card--padding-none verwendet werden */
+.card--padding-none .card__header {
+  padding: var(--space-lg);
+  padding-bottom: var(--space-md);
+  margin-bottom: 0;
+}
+
+.card--padding-none .card__content {
+  padding: 0 var(--space-lg);
+}
+
+.card--padding-none .card__footer {
+  padding: var(--space-md) var(--space-lg) var(--space-lg);
+  margin-top: 0;
+}

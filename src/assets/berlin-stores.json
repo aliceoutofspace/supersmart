@@ -1,0 +1,7814 @@
+[
+  {
+    "id": 652049372,
+    "name": "...nah und gut",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.4243206,
+    "lon": 13.4363341
+  },
+  {
+    "id": 1417005880,
+    "name": "...nah und gut",
+    "brand": "Edeka",
+    "address": "Ehrenfelder Platz 3",
+    "district": "Altglienicke",
+    "lat": 52.4018551,
+    "lon": 13.54297
+  },
+  {
+    "id": 6988372297,
+    "name": "Adalat",
+    "brand": "Adalat",
+    "address": "",
+    "district": "",
+    "lat": 52.4761828,
+    "lon": 13.4396069
+  },
+  {
+    "id": 11403668127,
+    "name": "Addalat",
+    "brand": "Addalat",
+    "address": "",
+    "district": "",
+    "lat": 52.4759696,
+    "lon": 13.4397182
+  },
+  {
+    "id": 6088939377,
+    "name": "AES Shop",
+    "brand": "AES Shop",
+    "address": "Marienburger Straße 36",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5345065,
+    "lon": 13.4256884
+  },
+  {
+    "id": 1397070330,
+    "name": "Afghan Zamin Supermarkt",
+    "brand": "Afghan Zamin Supermarkt",
+    "address": "Hauptstraße 114-115",
+    "district": "Schöneberg",
+    "lat": 52.482083,
+    "lon": 13.3491516
+  },
+  {
+    "id": 2090041491,
+    "name": "aima Supermarkt",
+    "brand": "aima Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.4296472,
+    "lon": 13.4655246
+  },
+  {
+    "id": 4693291602,
+    "name": "Al Madina",
+    "brand": "Al Madina",
+    "address": "",
+    "district": "",
+    "lat": 52.4871266,
+    "lon": 13.4267676
+  },
+  {
+    "id": 7127961262,
+    "name": "Al Schark",
+    "brand": "Al Schark",
+    "address": "",
+    "district": "",
+    "lat": 52.5302494,
+    "lon": 13.3282762
+  },
+  {
+    "id": 7088081085,
+    "name": "Al-Rayan Market",
+    "brand": "Al-Rayan Market",
+    "address": "",
+    "district": "",
+    "lat": 52.4783237,
+    "lon": 13.4464595
+  },
+  {
+    "id": 245261389,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Müllerstraße 128",
+    "district": "Wedding",
+    "lat": 52.5524232,
+    "lon": 13.3480665
+  },
+  {
+    "id": 259855794,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Theodor-Heuss-Platz 7",
+    "district": "Westend",
+    "lat": 52.5085368,
+    "lon": 13.2716801
+  },
+  {
+    "id": 270793632,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.4313775,
+    "lon": 13.7147356
+  },
+  {
+    "id": 279224131,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.4702479,
+    "lon": 13.4617637
+  },
+  {
+    "id": 293130996,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.4269688,
+    "lon": 13.3036734
+  },
+  {
+    "id": 297803736,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Lankwitzer Straße 19",
+    "district": "Lichterfelde",
+    "lat": 52.4297351,
+    "lon": 13.330048
+  },
+  {
+    "id": 352905928,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Richard-von-Weizsäcker-Platz 2",
+    "district": "Schöneberg",
+    "lat": 52.4857584,
+    "lon": 13.3574343
+  },
+  {
+    "id": 364048640,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Prerower Platz 1",
+    "district": "",
+    "lat": 52.56393,
+    "lon": 13.5053553
+  },
+  {
+    "id": 392683175,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Kiefholzstraße 49",
+    "district": "Alt-Treptow",
+    "lat": 52.4859875,
+    "lon": 13.4571207
+  },
+  {
+    "id": 441531298,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Hermannstraße 72",
+    "district": "",
+    "lat": 52.4741639,
+    "lon": 13.4274479
+  },
+  {
+    "id": 470471637,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Johannisthaler Chaussee 200",
+    "district": "",
+    "lat": 52.4308875,
+    "lon": 13.4561386
+  },
+  {
+    "id": 481148748,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Königstraße 56/57",
+    "district": "Wannsee",
+    "lat": 52.4189357,
+    "lon": 13.1575422
+  },
+  {
+    "id": 492443106,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Mecklenburgische Straße 23A",
+    "district": "Wilmersdorf",
+    "lat": 52.4794954,
+    "lon": 13.3106567
+  },
+  {
+    "id": 546677899,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Hauptstraße 9",
+    "district": "",
+    "lat": 52.5483391,
+    "lon": 13.5039694
+  },
+  {
+    "id": 549739056,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Frankfurter Allee 113-117",
+    "district": "Lichtenberg",
+    "lat": 52.5144968,
+    "lon": 13.4762399
+  },
+  {
+    "id": 615607311,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.4858985,
+    "lon": 13.4213275
+  },
+  {
+    "id": 646601544,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.5495294,
+    "lon": 13.3883773
+  },
+  {
+    "id": 668246085,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "Wilskistraße 47b",
+    "district": "",
+    "lat": 52.449774,
+    "lon": 13.2532595
+  },
+  {
+    "id": 811921225,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Schloßstraße 4-5",
+    "district": "",
+    "lat": 52.4641156,
+    "lon": 13.3267808
+  },
+  {
+    "id": 975878746,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Streitstraße 5-19",
+    "district": "Hakenfelde",
+    "lat": 52.5575599,
+    "lon": 13.209115
+  },
+  {
+    "id": 977283951,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Karl-Marx-Straße",
+    "district": "",
+    "lat": 52.4687326,
+    "lon": 13.4444074
+  },
+  {
+    "id": 1029675404,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "Hildburghauser Straße 3",
+    "district": "",
+    "lat": 52.4123187,
+    "lon": 13.3606387
+  },
+  {
+    "id": 1030066956,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Landsberger Allee 277",
+    "district": "",
+    "lat": 52.534814,
+    "lon": 13.4968487
+  },
+  {
+    "id": 1149021382,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.5643169,
+    "lon": 13.3668064
+  },
+  {
+    "id": 1500162675,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Karl-Marx-Straße 92-98",
+    "district": "Neukölln",
+    "lat": 52.4797665,
+    "lon": 13.4362242
+  },
+  {
+    "id": 1644065979,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.4732677,
+    "lon": 13.290462
+  },
+  {
+    "id": 1663969749,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Alexander-Meißner-Straße 1",
+    "district": "",
+    "lat": 52.3972377,
+    "lon": 13.5415199
+  },
+  {
+    "id": 1812280451,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Heinrich-Heine-Platz 8-12",
+    "district": "Mitte",
+    "lat": 52.5065406,
+    "lon": 13.4162889
+  },
+  {
+    "id": 1824743955,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Prager Platz 2a",
+    "district": "Wilmersdorf",
+    "lat": 52.4936482,
+    "lon": 13.3322422
+  },
+  {
+    "id": 1995346085,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Joachim-Gottschalk-Weg 5",
+    "district": "Gropiusstadt",
+    "lat": 52.4230711,
+    "lon": 13.4763895
+  },
+  {
+    "id": 2424332330,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Elcknerplatz 8",
+    "district": "",
+    "lat": 52.4580641,
+    "lon": 13.5804025
+  },
+  {
+    "id": 2499997002,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.5501198,
+    "lon": 13.4482607
+  },
+  {
+    "id": 2548523874,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Alfred-Kowalke-Straße 3",
+    "district": "",
+    "lat": 52.504406,
+    "lon": 13.516489
+  },
+  {
+    "id": 3098845419,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Unter den Eichen 97",
+    "district": "",
+    "lat": 52.4453954,
+    "lon": 13.2945295
+  },
+  {
+    "id": 3666951531,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Neumannstraße 13",
+    "district": "Pankow",
+    "lat": 52.5613631,
+    "lon": 13.4225947
+  },
+  {
+    "id": 3964762127,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.4589559,
+    "lon": 13.3830946
+  },
+  {
+    "id": 3987047649,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.5101681,
+    "lon": 13.3808444
+  },
+  {
+    "id": 5211079183,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.4940203,
+    "lon": 13.3606389
+  },
+  {
+    "id": 5224864431,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Berolinastraße 7D",
+    "district": "Mitte",
+    "lat": 52.5218804,
+    "lon": 13.4232368
+  },
+  {
+    "id": 6032523127,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Tamara-Danz-Straße 11",
+    "district": "",
+    "lat": 52.5064101,
+    "lon": 13.4458868
+  },
+  {
+    "id": 6078916023,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Fritz-Reuter-Allee 184",
+    "district": "",
+    "lat": 52.437192,
+    "lon": 13.446031
+  },
+  {
+    "id": 6273463430,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.5846524,
+    "lon": 13.286496
+  },
+  {
+    "id": 6943989025,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Breite Straße 20",
+    "district": "Pankow",
+    "lat": 52.5700558,
+    "lon": 13.4036946
+  },
+  {
+    "id": 7946062409,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Wilmersdorfer Straße 36-37",
+    "district": "Charlottenburg",
+    "lat": 52.5121281,
+    "lon": 13.304891
+  },
+  {
+    "id": 8499326127,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "Saatwinkler Damm 8",
+    "district": "Charlottenburg-Nord",
+    "lat": 52.5389014,
+    "lon": 13.3270893
+  },
+  {
+    "id": 9798282713,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Friedrichstraße 149",
+    "district": "",
+    "lat": 52.5188736,
+    "lon": 13.3879581
+  },
+  {
+    "id": 11063060337,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.5883804,
+    "lon": 13.4022564
+  },
+  {
+    "id": 11283643647,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "Potsdamer Chaussee 33",
+    "district": "Schlachtensee",
+    "lat": 52.4280537,
+    "lon": 13.2148926
+  },
+  {
+    "id": 11286579087,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Breisgauer Straße 1B",
+    "district": "Schlachtensee",
+    "lat": 52.4396507,
+    "lon": 13.2167289
+  },
+  {
+    "id": 11388056502,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "Bismarckstraße 17",
+    "district": "",
+    "lat": 52.4560479,
+    "lon": 13.3379865
+  },
+  {
+    "id": 12422902211,
+    "name": "Aldi",
+    "brand": "ALDI Nord",
+    "address": "Hauptstraße 37",
+    "district": "Französisch Buchholz",
+    "lat": 52.612039,
+    "lon": 13.4344649
+  },
+  {
+    "id": 12534305938,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "Hoeppnerstraße 3-13",
+    "district": "Tempelhof",
+    "lat": 52.471402,
+    "lon": 13.3840621
+  },
+  {
+    "id": 13481818310,
+    "name": "Aldi",
+    "brand": "Aldi Nord",
+    "address": "",
+    "district": "",
+    "lat": 52.520913,
+    "lon": 13.5413079
+  },
+  {
+    "id": 3682950108,
+    "name": "Aldi Nord",
+    "brand": "Aldi Nord",
+    "address": "Senftenberger Ring 17",
+    "district": "",
+    "lat": 52.5995142,
+    "lon": 13.3548869
+  },
+  {
+    "id": 707425912,
+    "name": "Alezz Market",
+    "brand": "Alezz Market",
+    "address": "Reinickendorfer Straße 24",
+    "district": "Gesundbrunnen",
+    "lat": 52.546125,
+    "lon": 13.3696247
+  },
+  {
+    "id": 8859808623,
+    "name": "AlKaiser",
+    "brand": "AlKaiser",
+    "address": "Greifswalder Straße 162",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5425447,
+    "lon": 13.4399717
+  },
+  {
+    "id": 11403675916,
+    "name": "Almahaba",
+    "brand": "Almahaba",
+    "address": "",
+    "district": "",
+    "lat": 52.4764873,
+    "lon": 13.4394939
+  },
+  {
+    "id": 336608019,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Schönhauser Allee 108",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5517136,
+    "lon": 13.4136956
+  },
+  {
+    "id": 865186898,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "",
+    "district": "",
+    "lat": 52.5428018,
+    "lon": 13.4413712
+  },
+  {
+    "id": 2179167888,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Alte Jakobstraße 79-80",
+    "district": "Mitte",
+    "lat": 52.5101946,
+    "lon": 13.408035
+  },
+  {
+    "id": 2290106962,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Giesebrechtstraße 4",
+    "district": "",
+    "lat": 52.5022111,
+    "lon": 13.3091666
+  },
+  {
+    "id": 2426050677,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Schleiermacherstraße 25",
+    "district": "",
+    "lat": 52.4893587,
+    "lon": 13.3977659
+  },
+  {
+    "id": 3294052227,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Bölschestraße 63",
+    "district": "Friedrichshagen",
+    "lat": 52.4551665,
+    "lon": 13.6255086
+  },
+  {
+    "id": 3472128868,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Else-Lasker-Schüler-Straße 18-22",
+    "district": "Schöneberg",
+    "lat": 52.5001242,
+    "lon": 13.3545269
+  },
+  {
+    "id": 4068008870,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "",
+    "district": "",
+    "lat": 52.5086589,
+    "lon": 13.3047894
+  },
+  {
+    "id": 4068008871,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Friedrichstraße 191",
+    "district": "Mitte",
+    "lat": 52.5110708,
+    "lon": 13.3893114
+  },
+  {
+    "id": 4068008872,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Chausseestraße 10",
+    "district": "",
+    "lat": 52.5284331,
+    "lon": 13.3859899
+  },
+  {
+    "id": 4761858224,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "",
+    "district": "",
+    "lat": 52.5267664,
+    "lon": 13.3326493
+  },
+  {
+    "id": 4995415654,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Konstanzer Straße 2",
+    "district": "Wilmersdorf",
+    "lat": 52.498704,
+    "lon": 13.3121172
+  },
+  {
+    "id": 5331770244,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Ludolfingerplatz 8A",
+    "district": "Frohnau",
+    "lat": 52.6322622,
+    "lon": 13.2870054
+  },
+  {
+    "id": 5717151780,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Heerstraße 221",
+    "district": "",
+    "lat": 52.5126595,
+    "lon": 13.1969132
+  },
+  {
+    "id": 9123971589,
+    "name": "Alnatura Super Natur Markt",
+    "brand": "Alnatura",
+    "address": "Koppenstraße 8",
+    "district": "Friedrichshain",
+    "lat": 52.5126288,
+    "lon": 13.4341734
+  },
+  {
+    "id": 11750878683,
+    "name": "Alsaadeh Market",
+    "brand": "Alsaadeh Market",
+    "address": "",
+    "district": "",
+    "lat": 52.4691883,
+    "lon": 13.3415881
+  },
+  {
+    "id": 4688178795,
+    "name": "Alscham",
+    "brand": "Alscham",
+    "address": "",
+    "district": "",
+    "lat": 52.4823769,
+    "lon": 13.4382823
+  },
+  {
+    "id": 4024075047,
+    "name": "Anant Indischer Supermarkt",
+    "brand": "Anant Indischer Supermarkt",
+    "address": "Anzengruberstraße 20",
+    "district": "Neukölln",
+    "lat": 52.480609,
+    "lon": 13.4394675
+  },
+  {
+    "id": 703802172,
+    "name": "Ariston",
+    "brand": "Ariston",
+    "address": "Meraner Straße 19",
+    "district": "Schöneberg",
+    "lat": 52.4858428,
+    "lon": 13.3389328
+  },
+  {
+    "id": 588557544,
+    "name": "Asia Choice",
+    "brand": "Asia Choice",
+    "address": "Berliner Allee 51",
+    "district": "Weißensee",
+    "lat": 52.548914,
+    "lon": 13.4529436
+  },
+  {
+    "id": 3644274093,
+    "name": "Asia Kauf",
+    "brand": "Asia Kauf",
+    "address": "Rheinstraße 24",
+    "district": "Friedenau",
+    "lat": 52.4681433,
+    "lon": 13.3313969
+  },
+  {
+    "id": 3909557432,
+    "name": "Asia Lebensmittel",
+    "brand": "Asia Lebensmittel",
+    "address": "Brückenstraße 5",
+    "district": "",
+    "lat": 52.4574614,
+    "lon": 13.5111972
+  },
+  {
+    "id": 10308094647,
+    "name": "Asia Lebensmittel - Obst & Gemüse",
+    "brand": "Asia Lebensmittel - Obst & Gemüse",
+    "address": "",
+    "district": "",
+    "lat": 52.4235258,
+    "lon": 13.4356573
+  },
+  {
+    "id": 866236232,
+    "name": "Asia Markt",
+    "brand": "Asia Markt",
+    "address": "Dircksenstraße 102",
+    "district": "Mitte",
+    "lat": 52.5191809,
+    "lon": 13.4147953
+  },
+  {
+    "id": 9896641262,
+    "name": "Asia Markt Kim-Chi",
+    "brand": "Asia Markt Kim-Chi",
+    "address": "Rudower Chaussee 7",
+    "district": "Adlershof",
+    "lat": 52.433239,
+    "lon": 13.537302
+  },
+  {
+    "id": 11630963099,
+    "name": "Asia Might",
+    "brand": "Asia Might",
+    "address": "",
+    "district": "",
+    "lat": 52.4337374,
+    "lon": 13.4686513
+  },
+  {
+    "id": 1262549048,
+    "name": "Asia Supermarkt",
+    "brand": "Asia Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.5065392,
+    "lon": 13.2926335
+  },
+  {
+    "id": 9794360171,
+    "name": "Asia-Markt",
+    "brand": "Asia-Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.5125603,
+    "lon": 13.3052829
+  },
+  {
+    "id": 975312179,
+    "name": "Asia-Mekong",
+    "brand": "Asia-Mekong",
+    "address": "Henriette-Herz-Platz 1",
+    "district": "",
+    "lat": 52.5220546,
+    "lon": 13.4011035
+  },
+  {
+    "id": 500057367,
+    "name": "Asia-Mexiko Supermarkt",
+    "brand": "Asia-Mexiko Supermarkt",
+    "address": "Karl-Marx-Straße 242",
+    "district": "Neukölln",
+    "lat": 52.4674859,
+    "lon": 13.4418357
+  },
+  {
+    "id": 11341972269,
+    "name": "Asia24",
+    "brand": "Asia24",
+    "address": "Herzbergstraße 128 - 139",
+    "district": "",
+    "lat": 52.5276643,
+    "lon": 13.488704
+  },
+  {
+    "id": 1848217298,
+    "name": "Asiamarkt",
+    "brand": "Asiamarkt",
+    "address": "Friedrichstraße 10",
+    "district": "Kreuzberg",
+    "lat": 52.501211,
+    "lon": 13.3916005
+  },
+  {
+    "id": 8504888827,
+    "name": "Athi Devi Asia & Afro Supermarkt",
+    "brand": "Athi Devi Asia & Afro Supermarkt",
+    "address": "Leykestraße 1",
+    "district": "Neukölln",
+    "lat": 52.4747337,
+    "lon": 13.4280117
+  },
+  {
+    "id": 4119293448,
+    "name": "Atix",
+    "brand": "Atix",
+    "address": "Neue Promenade 8",
+    "district": "",
+    "lat": 52.5226071,
+    "lon": 13.4010483
+  },
+  {
+    "id": 4454150182,
+    "name": "AZZAM",
+    "brand": "AZZAM",
+    "address": "Turmstraße 57-58",
+    "district": "",
+    "lat": 52.5274557,
+    "lon": 13.3299654
+  },
+  {
+    "id": 1907577490,
+    "name": "Azzam Supermarket",
+    "brand": "Azzam Supermarket",
+    "address": "Sonnenallee 55",
+    "district": "",
+    "lat": 52.4852287,
+    "lon": 13.4332232
+  },
+  {
+    "id": 2796341489,
+    "name": "Bahia",
+    "brand": "Bahia",
+    "address": "Wrangelstraße 49",
+    "district": "Kreuzberg",
+    "lat": 52.4989369,
+    "lon": 13.4407853
+  },
+  {
+    "id": 4558075794,
+    "name": "Balkan Šop-Ilić",
+    "brand": "Balkan Šop-Ilić",
+    "address": "Dahlmannstraße 22",
+    "district": "",
+    "lat": 52.5008416,
+    "lon": 13.3041489
+  },
+  {
+    "id": 441736480,
+    "name": "Baraka",
+    "brand": "Baraka",
+    "address": "Karl-Marx-Straße 100",
+    "district": "Neukölln",
+    "lat": 52.4794566,
+    "lon": 13.4369238
+  },
+  {
+    "id": 3858762686,
+    "name": "Baraka Supermarkt",
+    "brand": "Baraka Supermarkt",
+    "address": "Hauptstraße 137",
+    "district": "Schöneberg",
+    "lat": 52.485251,
+    "lon": 13.3550385
+  },
+  {
+    "id": 12830935662,
+    "name": "Baraka Supermarkt",
+    "brand": "Baraka Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.5532459,
+    "lon": 13.3475192
+  },
+  {
+    "id": 1699353556,
+    "name": "Baskent",
+    "brand": "Baskent",
+    "address": "Föhrer Straße 13",
+    "district": "",
+    "lat": 52.5417248,
+    "lon": 13.3496751
+  },
+  {
+    "id": 13365845905,
+    "name": "Başkent",
+    "brand": "Başkent",
+    "address": "Friedrichstraße 4",
+    "district": "",
+    "lat": 52.5007792,
+    "lon": 13.3918237
+  },
+  {
+    "id": 12971328958,
+    "name": "BD",
+    "brand": "BD",
+    "address": "",
+    "district": "",
+    "lat": 52.5132322,
+    "lon": 13.4730347
+  },
+  {
+    "id": 7287775932,
+    "name": "Bento & Bibim",
+    "brand": "Bento & Bibim",
+    "address": "Lychener Straße 3",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5411196,
+    "lon": 13.4144171
+  },
+  {
+    "id": 1307115268,
+    "name": "Bereket Market",
+    "brand": "Bereket Market",
+    "address": "Hermannstraße 166",
+    "district": "",
+    "lat": 52.4696138,
+    "lon": 13.4303727
+  },
+  {
+    "id": 5377794500,
+    "name": "Bereket Market",
+    "brand": "Bereket Market",
+    "address": "",
+    "district": "",
+    "lat": 52.4496881,
+    "lon": 13.3847902
+  },
+  {
+    "id": 12811369493,
+    "name": "Berlin Market",
+    "brand": "Berlin Market",
+    "address": "",
+    "district": "",
+    "lat": 52.4641576,
+    "lon": 13.4329347
+  },
+  {
+    "id": 317732496,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.5047239,
+    "lon": 13.3074695
+  },
+  {
+    "id": 333460025,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Friesenstraße 1",
+    "district": "",
+    "lat": 52.4888756,
+    "lon": 13.3942017
+  },
+  {
+    "id": 565649878,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Dircksenstraße 145-147",
+    "district": "Mitte",
+    "lat": 52.523162,
+    "lon": 13.4041367
+  },
+  {
+    "id": 667211364,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Reichsstraße 10",
+    "district": "Westend",
+    "lat": 52.5125406,
+    "lon": 13.2675793
+  },
+  {
+    "id": 704002983,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Bundesallee 201",
+    "district": "Wilmersdorf",
+    "lat": 52.4933745,
+    "lon": 13.3313064
+  },
+  {
+    "id": 726126776,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Rüdesheimer Straße 3",
+    "district": "Wilmersdorf",
+    "lat": 52.4735715,
+    "lon": 13.3148363
+  },
+  {
+    "id": 860022923,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Bölschestraße 2",
+    "district": "Friedrichshagen",
+    "lat": 52.4470689,
+    "lon": 13.6245399
+  },
+  {
+    "id": 910429968,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Chausseestraße 19",
+    "district": "Mitte",
+    "lat": 52.5301762,
+    "lon": 13.3838213
+  },
+  {
+    "id": 1080863820,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Teltower Damm 13",
+    "district": "Zehlendorf",
+    "lat": 52.4336816,
+    "lon": 13.2600711
+  },
+  {
+    "id": 1294273280,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Bundesallee 104–105",
+    "district": "Friedenau",
+    "lat": 52.4655619,
+    "lon": 13.3286246
+  },
+  {
+    "id": 1311839516,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Voigtstraße 38",
+    "district": "Friedrichshain",
+    "lat": 52.5160394,
+    "lon": 13.4679239
+  },
+  {
+    "id": 1487167492,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Boxhagener Straße 73",
+    "district": "Friedrichshain",
+    "lat": 52.5069507,
+    "lon": 13.468918
+  },
+  {
+    "id": 1641888176,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.4935036,
+    "lon": 13.4220871
+  },
+  {
+    "id": 1698191227,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.484614,
+    "lon": 13.433672
+  },
+  {
+    "id": 1768055811,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Prenzlauer Allee 180",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5440207,
+    "lon": 13.4265698
+  },
+  {
+    "id": 2451544042,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Brunnenstraße 6",
+    "district": "Mitte",
+    "lat": 52.530752,
+    "lon": 13.4005851
+  },
+  {
+    "id": 2464138931,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Friedrichstraße 136",
+    "district": "Mitte",
+    "lat": 52.5229073,
+    "lon": 13.3875704
+  },
+  {
+    "id": 2472120999,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Hauptstraße 31,32",
+    "district": "Schöneberg",
+    "lat": 52.4849708,
+    "lon": 13.3533641
+  },
+  {
+    "id": 2882702745,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Babelsberger Straße 52",
+    "district": "Wilmersdorf",
+    "lat": 52.4878673,
+    "lon": 13.3354416
+  },
+  {
+    "id": 2979443782,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Breite Straße 33-34",
+    "district": "Pankow",
+    "lat": 52.5697666,
+    "lon": 13.4065329
+  },
+  {
+    "id": 2985073366,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Fehrbelliner Platz 5",
+    "district": "Wilmersdorf",
+    "lat": 52.4907007,
+    "lon": 13.3129177
+  },
+  {
+    "id": 3218143489,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Müllerstraße 141",
+    "district": "Wedding",
+    "lat": 52.5487318,
+    "lon": 13.3538849
+  },
+  {
+    "id": 3354444673,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.4991298,
+    "lon": 13.3244063
+  },
+  {
+    "id": 3385301270,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Berliner Allee 26",
+    "district": "Weißensee",
+    "lat": 52.5478176,
+    "lon": 13.4507131
+  },
+  {
+    "id": 3851784124,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Hasenheide 32-38",
+    "district": "",
+    "lat": 52.4884752,
+    "lon": 13.4150932
+  },
+  {
+    "id": 3898818522,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Greifswalder Straße 212",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5320465,
+    "lon": 13.4277612
+  },
+  {
+    "id": 3916619327,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Hermannstraße 199",
+    "district": "Neukölln",
+    "lat": 52.4751837,
+    "lon": 13.4275096
+  },
+  {
+    "id": 4271022999,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Kladower Damm 362-364",
+    "district": "",
+    "lat": 52.4555175,
+    "lon": 13.1449754
+  },
+  {
+    "id": 4314333203,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Gleimstraße 30-35",
+    "district": "",
+    "lat": 52.5477143,
+    "lon": 13.4120467
+  },
+  {
+    "id": 4434478716,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Weißenhöher Straße 108",
+    "district": "",
+    "lat": 52.5069556,
+    "lon": 13.5598549
+  },
+  {
+    "id": 4804539521,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Uhlandstraße 103",
+    "district": "",
+    "lat": 52.4856632,
+    "lon": 13.3228152
+  },
+  {
+    "id": 5545056560,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Rudi-Dutschke-Straße 17",
+    "district": "Kreuzberg",
+    "lat": 52.5067343,
+    "lon": 13.3941121
+  },
+  {
+    "id": 6069060641,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.5002409,
+    "lon": 13.4409705
+  },
+  {
+    "id": 6167488714,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Treskowallee 114",
+    "district": "Lichtenberg",
+    "lat": 52.4812026,
+    "lon": 13.5245055
+  },
+  {
+    "id": 6653396111,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Karl-Marx-Straße 142A",
+    "district": "",
+    "lat": 52.4768037,
+    "lon": 13.4387996
+  },
+  {
+    "id": 7027141484,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Heilbronner Straße 12",
+    "district": "Halensee",
+    "lat": 52.5021374,
+    "lon": 13.2955465
+  },
+  {
+    "id": 7243603338,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Tempelhofer Damm 227",
+    "district": "Tempelhof",
+    "lat": 52.4556927,
+    "lon": 13.3863952
+  },
+  {
+    "id": 8120989342,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.4574657,
+    "lon": 13.3206336
+  },
+  {
+    "id": 9984905976,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Schönhauser Allee 10",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5304435,
+    "lon": 13.4113699
+  },
+  {
+    "id": 10282821109,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Lichtenrader Damm 83",
+    "district": "",
+    "lat": 52.4063662,
+    "lon": 13.4062262
+  },
+  {
+    "id": 11078794332,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.5106128,
+    "lon": 13.4164123
+  },
+  {
+    "id": 11283643648,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "Wiesenschlag 4",
+    "district": "Nikolassee",
+    "lat": 52.4273376,
+    "lon": 13.2176908
+  },
+  {
+    "id": 12031624181,
+    "name": "Bio Company",
+    "brand": "Bio Company",
+    "address": "",
+    "district": "",
+    "lat": 52.523023,
+    "lon": 13.464467
+  },
+  {
+    "id": 2935359001,
+    "name": "bio goods",
+    "brand": "bio goods",
+    "address": "Kastanienallee 101",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5397397,
+    "lon": 13.4111921
+  },
+  {
+    "id": 3446653825,
+    "name": "BioInsel",
+    "brand": "BioInsel",
+    "address": "Leberstraße 2",
+    "district": "Schöneberg",
+    "lat": 52.4857109,
+    "lon": 13.3610287
+  },
+  {
+    "id": 3632641114,
+    "name": "Biolino",
+    "brand": "Biolino",
+    "address": "Crellestraße 38",
+    "district": "Schöneberg",
+    "lat": 52.4879674,
+    "lon": 13.3603428
+  },
+  {
+    "id": 1617419907,
+    "name": "Biomarkt Viverte",
+    "brand": "Biomarkt Viverte",
+    "address": "Glarner Straße 62",
+    "district": "",
+    "lat": 52.4271339,
+    "lon": 13.3027848
+  },
+  {
+    "id": 825094074,
+    "name": "Bioquell",
+    "brand": "Bioquell",
+    "address": "",
+    "district": "",
+    "lat": 52.5653928,
+    "lon": 13.4032278
+  },
+  {
+    "id": 2559224466,
+    "name": "bioso Naturkost und Café",
+    "brand": "bioso Naturkost und Café",
+    "address": "Tempelhofer Damm 209",
+    "district": "Tempelhof",
+    "lat": 52.4573377,
+    "lon": 13.3842847
+  },
+  {
+    "id": 2796342271,
+    "name": "Biotopia",
+    "brand": "Biotopia",
+    "address": "Wrangelstraße 49",
+    "district": "Kreuzberg",
+    "lat": 52.4989027,
+    "lon": 13.4408724
+  },
+  {
+    "id": 577383675,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "Badstraße 59",
+    "district": "Gesundbrunnen",
+    "lat": 52.5507087,
+    "lon": 13.38406
+  },
+  {
+    "id": 707425776,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "Reinickendorfer Straße 108",
+    "district": "Wedding",
+    "lat": 52.545392,
+    "lon": 13.3690748
+  },
+  {
+    "id": 828287036,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "Hermannstraße 201-202",
+    "district": "",
+    "lat": 52.4757954,
+    "lon": 13.4272973
+  },
+  {
+    "id": 2287696877,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "Kottbusser Damm 75",
+    "district": "Neukölln",
+    "lat": 52.4904265,
+    "lon": 13.4239981
+  },
+  {
+    "id": 2952546837,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "Residenzstraße 31",
+    "district": "Reinickendorf",
+    "lat": 52.5678172,
+    "lon": 13.3619052
+  },
+  {
+    "id": 3577574383,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "Müllerstraße 35",
+    "district": "Wedding",
+    "lat": 52.5489311,
+    "lon": 13.355191
+  },
+  {
+    "id": 3826451055,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "Kleiststraße 32-33",
+    "district": "Schöneberg",
+    "lat": 52.5003829,
+    "lon": 13.3484057
+  },
+  {
+    "id": 4232340092,
+    "name": "Bolu",
+    "brand": "Bolu",
+    "address": "",
+    "district": "",
+    "lat": 52.5282875,
+    "lon": 13.194756
+  },
+  {
+    "id": 8319654403,
+    "name": "BOLU",
+    "brand": "BOLU",
+    "address": "Oranienburger Straße 90",
+    "district": "",
+    "lat": 52.5962424,
+    "lon": 13.3331428
+  },
+  {
+    "id": 439771184,
+    "name": "Brandenburger Landwaren",
+    "brand": "Brandenburger Landwaren",
+    "address": "Oranienstraße 47a",
+    "district": "Kreuzberg",
+    "lat": 52.5029466,
+    "lon": 13.4136849
+  },
+  {
+    "id": 674086082,
+    "name": "Bulgarische Lebensmittel",
+    "brand": "Bulgarische Lebensmittel",
+    "address": "",
+    "district": "",
+    "lat": 52.5473474,
+    "lon": 13.2013286
+  },
+  {
+    "id": 4419487707,
+    "name": "Calvin Discount",
+    "brand": "Calvin Discount",
+    "address": "Calvinstraße 1",
+    "district": "",
+    "lat": 52.5240137,
+    "lon": 13.3520522
+  },
+  {
+    "id": 5817249360,
+    "name": "Can Market",
+    "brand": "Can Market",
+    "address": "",
+    "district": "",
+    "lat": 52.437286,
+    "lon": 13.3446695
+  },
+  {
+    "id": 1379344535,
+    "name": "Centro Italia",
+    "brand": "Centro Italia",
+    "address": "Großbeerenstraße 171",
+    "district": "",
+    "lat": 52.4283842,
+    "lon": 13.3773195
+  },
+  {
+    "id": 7249782646,
+    "name": "Centro Italia",
+    "brand": "Centro Italia",
+    "address": "Greifswalder Straße 80c",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5391376,
+    "lon": 13.4386786
+  },
+  {
+    "id": 1092250109,
+    "name": "Ceylan Supermarkt",
+    "brand": "Ceylan Supermarkt",
+    "address": "Danckelmannstraße 52",
+    "district": "Charlottenburg",
+    "lat": 52.5154783,
+    "lon": 13.290879
+  },
+  {
+    "id": 5820186154,
+    "name": "Chau A Hoang Dic",
+    "brand": "Chau A Hoang Dic",
+    "address": "",
+    "district": "",
+    "lat": 52.527555,
+    "lon": 13.4908178
+  },
+  {
+    "id": 1312144101,
+    "name": "City Supermarkt",
+    "brand": "City Supermarkt",
+    "address": "Krausenstraße 11",
+    "district": "",
+    "lat": 52.5094113,
+    "lon": 13.391561
+  },
+  {
+    "id": 9350697582,
+    "name": "Cocos Asia",
+    "brand": "Cocos Asia",
+    "address": "",
+    "district": "",
+    "lat": 52.4933216,
+    "lon": 13.3840227
+  },
+  {
+    "id": 6635160123,
+    "name": "Dadly",
+    "brand": "Dadly",
+    "address": "Beusselstraße 44R",
+    "district": "Moabit",
+    "lat": 52.5334497,
+    "lon": 13.3280361
+  },
+  {
+    "id": 12323881612,
+    "name": "deli am Markt",
+    "brand": "deli am Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.5437602,
+    "lon": 13.441346
+  },
+  {
+    "id": 13072412301,
+    "name": "Denns Biomarkt",
+    "brand": "Denns Biomarkt",
+    "address": "Kissinger Straße 1 - 2",
+    "district": "",
+    "lat": 52.4791632,
+    "lon": 13.2862004
+  },
+  {
+    "id": 285071508,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Boxhagener Straße 103",
+    "district": "Friedrichshain",
+    "lat": 52.5126115,
+    "lon": 13.4597619
+  },
+  {
+    "id": 521227908,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Greifswalder Straße 31",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5325693,
+    "lon": 13.429371
+  },
+  {
+    "id": 582748267,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Templiner Straße 12",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5318707,
+    "lon": 13.4076249
+  },
+  {
+    "id": 769364237,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Oranienstraße 140-142",
+    "district": "Kreuzberg",
+    "lat": 52.5039556,
+    "lon": 13.4091375
+  },
+  {
+    "id": 1111017123,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Schliemannstraße 48",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5407418,
+    "lon": 13.4163913
+  },
+  {
+    "id": 1187333066,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Grolmanstraße 48",
+    "district": "",
+    "lat": 52.5050178,
+    "lon": 13.3233806
+  },
+  {
+    "id": 1225486132,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.4857356,
+    "lon": 13.4214749
+  },
+  {
+    "id": 1463883876,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Hermann-Hesse-Straße 4",
+    "district": "",
+    "lat": 52.5809357,
+    "lon": 13.4027152
+  },
+  {
+    "id": 1669841847,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.6110395,
+    "lon": 13.3179908
+  },
+  {
+    "id": 1812280461,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Annenstraße 48",
+    "district": "Mitte",
+    "lat": 52.5076492,
+    "lon": 13.4144581
+  },
+  {
+    "id": 1969213798,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Hauptstraße 11",
+    "district": "",
+    "lat": 52.4885102,
+    "lon": 13.3581546
+  },
+  {
+    "id": 2209740269,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Kaiserdamm 112",
+    "district": "Charlottenburg",
+    "lat": 52.5104649,
+    "lon": 13.2932481
+  },
+  {
+    "id": 2262896307,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Clayallee 177",
+    "district": "Dahlem",
+    "lat": 52.4512862,
+    "lon": 13.2700949
+  },
+  {
+    "id": 2264130308,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.5340278,
+    "lon": 13.1960288
+  },
+  {
+    "id": 2406781814,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Bernauer Straße 50",
+    "district": "Mitte",
+    "lat": 52.5402635,
+    "lon": 13.4041362
+  },
+  {
+    "id": 2420128428,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Mühsamstraße 54",
+    "district": "Friedrichshain",
+    "lat": 52.5202002,
+    "lon": 13.451403
+  },
+  {
+    "id": 2426072063,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Chausseestraße 21",
+    "district": "Wannsee",
+    "lat": 52.4178538,
+    "lon": 13.1472245
+  },
+  {
+    "id": 2487590990,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Rosenthaler Weg 78",
+    "district": "Französisch Buchholz",
+    "lat": 52.607372,
+    "lon": 13.4291329
+  },
+  {
+    "id": 3051910417,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Joachim-Friedrich-Straße 17",
+    "district": "",
+    "lat": 52.4986354,
+    "lon": 13.2965708
+  },
+  {
+    "id": 3354414093,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Bizetstraße 17-19",
+    "district": "Weißensee",
+    "lat": 52.5474522,
+    "lon": 13.4509431
+  },
+  {
+    "id": 3427380188,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Alt-Rudow 24",
+    "district": "Rudow",
+    "lat": 52.4202432,
+    "lon": 13.4918666
+  },
+  {
+    "id": 3499253021,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.4949861,
+    "lon": 13.4205474
+  },
+  {
+    "id": 3588747520,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Rheinstraße 60",
+    "district": "Friedenau",
+    "lat": 52.4700835,
+    "lon": 13.3341154
+  },
+  {
+    "id": 3826451957,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Motzstraße 24",
+    "district": "Schöneberg",
+    "lat": 52.4980181,
+    "lon": 13.3483763
+  },
+  {
+    "id": 3906099257,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Hanne-Sobek-Platz",
+    "district": "",
+    "lat": 52.5486803,
+    "lon": 13.3891398
+  },
+  {
+    "id": 3922305547,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.4684302,
+    "lon": 13.4414052
+  },
+  {
+    "id": 3978727085,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Bahnhofstraße 33-38",
+    "district": "",
+    "lat": 52.458381,
+    "lon": 13.5786692
+  },
+  {
+    "id": 4080663931,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Adlergestell 259",
+    "district": "Adlershof",
+    "lat": 52.4353773,
+    "lon": 13.5419279
+  },
+  {
+    "id": 4090281105,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Danziger Straße 73-77",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5390981,
+    "lon": 13.4254546
+  },
+  {
+    "id": 4741895910,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Prenzlauer Promenade 192",
+    "district": "Pankow",
+    "lat": 52.551672,
+    "lon": 13.4299375
+  },
+  {
+    "id": 5507711302,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Karl-Marx-Straße 66",
+    "district": "",
+    "lat": 52.4819759,
+    "lon": 13.4325712
+  },
+  {
+    "id": 6131114962,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Müllerstraße 34",
+    "district": "Wedding",
+    "lat": 52.5484993,
+    "lon": 13.3558851
+  },
+  {
+    "id": 6258659482,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Schönhauser Allee 80",
+    "district": "",
+    "lat": 52.5492906,
+    "lon": 13.4157975
+  },
+  {
+    "id": 6273394390,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "2",
+    "district": "Mitte",
+    "lat": 52.5208173,
+    "lon": 13.4139182
+  },
+  {
+    "id": 6895753974,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Boxhagener Straße 82",
+    "district": "",
+    "lat": 52.5085371,
+    "lon": 13.4666727
+  },
+  {
+    "id": 6898619036,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Albrechtstraße 16-18",
+    "district": "Steglitz",
+    "lat": 52.4546555,
+    "lon": 13.3267514
+  },
+  {
+    "id": 7401377653,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Wollankstraße 101",
+    "district": "Pankow",
+    "lat": 52.564597,
+    "lon": 13.3939165
+  },
+  {
+    "id": 8112305468,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Sonntagstraße 37",
+    "district": "",
+    "lat": 52.5040299,
+    "lon": 13.4680454
+  },
+  {
+    "id": 8573099104,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Gartenstraße 85-87",
+    "district": "",
+    "lat": 52.5329077,
+    "lon": 13.3877558
+  },
+  {
+    "id": 8637878902,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Hauptstraße 29",
+    "district": "Schöneberg",
+    "lat": 52.4853856,
+    "lon": 13.3542151
+  },
+  {
+    "id": 9405719996,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.6342759,
+    "lon": 13.4967371
+  },
+  {
+    "id": 9492707050,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.490466,
+    "lon": 13.3862074
+  },
+  {
+    "id": 12201930620,
+    "name": "Denns BioMarkt",
+    "brand": "Denns BioMarkt",
+    "address": "Turmstraße 29",
+    "district": "Wedding",
+    "lat": 52.5264982,
+    "lon": 13.3421363
+  },
+  {
+    "id": 6192424377,
+    "name": "Die Erbsenzählerei - Gutes unverpackt",
+    "brand": "Die Erbsenzählerei - Gutes unverpackt",
+    "address": "Kolonnenstraße 48",
+    "district": "",
+    "lat": 52.4856105,
+    "lon": 13.3629759
+  },
+  {
+    "id": 2827585882,
+    "name": "Doğan Supermarkt",
+    "brand": "Doğan Supermarkt",
+    "address": "Beusselstraße 76",
+    "district": "",
+    "lat": 52.5277045,
+    "lon": 13.3283116
+  },
+  {
+    "id": 2183996084,
+    "name": "Dr. Pogo",
+    "brand": "Dr. Pogo",
+    "address": "Karl-Marx-Platz 24",
+    "district": "Neukölln",
+    "lat": 52.4739742,
+    "lon": 13.443147
+  },
+  {
+    "id": 2281044266,
+    "name": "Düzgün",
+    "brand": "Düzgün",
+    "address": "",
+    "district": "",
+    "lat": 52.4781117,
+    "lon": 13.4478681
+  },
+  {
+    "id": 3833209860,
+    "name": "Düzgün",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.5042204,
+    "lon": 13.3071955
+  },
+  {
+    "id": 268844516,
+    "name": "E-Center",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.6082579,
+    "lon": 13.2353863
+  },
+  {
+    "id": 3685604688,
+    "name": "E-Center",
+    "brand": "Edeka",
+    "address": "Hansastraße 236",
+    "district": "",
+    "lat": 52.5605173,
+    "lon": 13.4988103
+  },
+  {
+    "id": 9045204695,
+    "name": "E-Center",
+    "brand": "Edeka",
+    "address": "Rosenthaler Straße 43-45",
+    "district": "Mitte",
+    "lat": 52.5243627,
+    "lon": 13.403102
+  },
+  {
+    "id": 10057200163,
+    "name": "E-Center",
+    "brand": "Edeka",
+    "address": "Schloßstraße 1",
+    "district": "Steglitz",
+    "lat": 52.4646955,
+    "lon": 13.3265184
+  },
+  {
+    "id": 272247672,
+    "name": "Edeka",
+    "brand": "EDEKA",
+    "address": "Britzer Damm 55-59",
+    "district": "Britz",
+    "lat": 52.4574201,
+    "lon": 13.4373312
+  },
+  {
+    "id": 316772479,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Berliner Straße 96",
+    "district": "Tegel",
+    "lat": 52.5890882,
+    "lon": 13.284848
+  },
+  {
+    "id": 364266085,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Ferdinandstraße 34",
+    "district": "Lichterfelde",
+    "lat": 52.4278951,
+    "lon": 13.3284544
+  },
+  {
+    "id": 552357231,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Bernauer Straße 69-73",
+    "district": "",
+    "lat": 52.5752904,
+    "lon": 13.2837641
+  },
+  {
+    "id": 667211372,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5185318,
+    "lon": 13.2571181
+  },
+  {
+    "id": 695831680,
+    "name": "Edeka",
+    "brand": "EDEKA",
+    "address": "Salzbrunner Straße 18-20",
+    "district": "",
+    "lat": 52.4891517,
+    "lon": 13.2941908
+  },
+  {
+    "id": 988558155,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Stephanstraße 37-43",
+    "district": "Moabit",
+    "lat": 52.5319994,
+    "lon": 13.3446067
+  },
+  {
+    "id": 2853634779,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Wendenschloßstraße 324",
+    "district": "Köpenick",
+    "lat": 52.4283689,
+    "lon": 13.5844098
+  },
+  {
+    "id": 3672738935,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Kladower Damm 366 B",
+    "district": "Kladow",
+    "lat": 52.4550765,
+    "lon": 13.1439156
+  },
+  {
+    "id": 3989777458,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Eckertstraße 7-11",
+    "district": "Friedrichshain",
+    "lat": 52.5197889,
+    "lon": 13.4503543
+  },
+  {
+    "id": 4630466564,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5669682,
+    "lon": 13.3485717
+  },
+  {
+    "id": 9881679117,
+    "name": "Edeka",
+    "brand": "EDEKA",
+    "address": "Hedwig-Dohm-Straße 4",
+    "district": "",
+    "lat": 52.4761489,
+    "lon": 13.3625151
+  },
+  {
+    "id": 12636047385,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Karl-Marx-Straße 101",
+    "district": "",
+    "lat": 52.4795197,
+    "lon": 13.4375275
+  },
+  {
+    "id": 12917162101,
+    "name": "Edeka",
+    "brand": "Edeka",
+    "address": "Falkenberger Chaussee 99",
+    "district": "",
+    "lat": 52.5687098,
+    "lon": 13.5169909
+  },
+  {
+    "id": 254862675,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "",
+    "district": "",
+    "lat": 52.4701156,
+    "lon": 13.4621306
+  },
+  {
+    "id": 262355894,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Frankfurter Allee 35 - 37",
+    "district": "Friedrichshain",
+    "lat": 52.515615,
+    "lon": 13.4623106
+  },
+  {
+    "id": 270814685,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Fischerhüttenstraße 68",
+    "district": "Zehlendorf",
+    "lat": 52.4422611,
+    "lon": 13.2404658
+  },
+  {
+    "id": 270814692,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "Potsdamer Chaussee 80",
+    "district": "Zehlendorf",
+    "lat": 52.4268546,
+    "lon": 13.2159158
+  },
+  {
+    "id": 271738194,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Markt 11",
+    "district": "Spandau",
+    "lat": 52.5374036,
+    "lon": 13.2047062
+  },
+  {
+    "id": 292092618,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Franz-Jacob-Straße 4",
+    "district": "Fennpfuhl",
+    "lat": 52.5254295,
+    "lon": 13.4657308
+  },
+  {
+    "id": 319584630,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.52261,
+    "lon": 13.4284778
+  },
+  {
+    "id": 333434552,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Herrfurthplatz 12",
+    "district": "",
+    "lat": 52.4770848,
+    "lon": 13.4230134
+  },
+  {
+    "id": 371817090,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Wiclefstraße 60-62",
+    "district": "",
+    "lat": 52.5301247,
+    "lon": 13.3373959
+  },
+  {
+    "id": 417018788,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "Pistoriusstraße 112-114",
+    "district": "Weißensee",
+    "lat": 52.5533011,
+    "lon": 13.4459428
+  },
+  {
+    "id": 448814806,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Barnimstraße 18",
+    "district": "Friedrichshain",
+    "lat": 52.5260753,
+    "lon": 13.422959
+  },
+  {
+    "id": 449994504,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Albrechtstraße 3",
+    "district": "Steglitz",
+    "lat": 52.4564251,
+    "lon": 13.3217052
+  },
+  {
+    "id": 471301175,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Buntzelstraße 14",
+    "district": "Bohnsdorf",
+    "lat": 52.4088869,
+    "lon": 13.5719986
+  },
+  {
+    "id": 505996681,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Yorckstraße 14",
+    "district": "",
+    "lat": 52.4939285,
+    "lon": 13.3839687
+  },
+  {
+    "id": 587835279,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "Heckerdamm 225",
+    "district": "Charlottenburg-Nord",
+    "lat": 52.5392837,
+    "lon": 13.3001834
+  },
+  {
+    "id": 624360866,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Jenaer Straße 27",
+    "district": "Wilmersdorf",
+    "lat": 52.4908116,
+    "lon": 13.3356896
+  },
+  {
+    "id": 634912181,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.4759438,
+    "lon": 13.2901303
+  },
+  {
+    "id": 652570198,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Ritterstraße 38-40",
+    "district": "Kreuzberg",
+    "lat": 52.5035654,
+    "lon": 13.4036492
+  },
+  {
+    "id": 674100930,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5339033,
+    "lon": 13.195608
+  },
+  {
+    "id": 709045955,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.493546,
+    "lon": 13.3324318
+  },
+  {
+    "id": 768671097,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Rheinsteinstraße 4-12",
+    "district": "Karlshorst",
+    "lat": 52.4827099,
+    "lon": 13.5274287
+  },
+  {
+    "id": 901799431,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Hasenheide 107-108",
+    "district": "Neukölln",
+    "lat": 52.4864287,
+    "lon": 13.4214953
+  },
+  {
+    "id": 919491996,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "",
+    "district": "",
+    "lat": 52.3928926,
+    "lon": 13.4203811
+  },
+  {
+    "id": 1008550282,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5469822,
+    "lon": 13.1862505
+  },
+  {
+    "id": 1110336185,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Frankfurter Allee 105",
+    "district": "Friedrichshain",
+    "lat": 52.5144935,
+    "lon": 13.4737376
+  },
+  {
+    "id": 1628715657,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "",
+    "district": "",
+    "lat": 52.5383977,
+    "lon": 13.5901733
+  },
+  {
+    "id": 1809578947,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Gartenfelder Straße 86",
+    "district": "Haselhorst",
+    "lat": 52.5434199,
+    "lon": 13.2406593
+  },
+  {
+    "id": 1846516833,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Hauptstraße 23",
+    "district": "Wilhelmsruh",
+    "lat": 52.5865177,
+    "lon": 13.368014
+  },
+  {
+    "id": 1871927027,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Kolonnenstraße 10",
+    "district": "",
+    "lat": 52.485689,
+    "lon": 13.3617579
+  },
+  {
+    "id": 1915389756,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Otto-Suhr-Allee 105",
+    "district": "Charlottenburg",
+    "lat": 52.5169837,
+    "lon": 13.30707
+  },
+  {
+    "id": 1946787755,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5362791,
+    "lon": 13.4183615
+  },
+  {
+    "id": 1995346097,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Joachim-Gottschalk-Weg 23",
+    "district": "Gropiusstadt",
+    "lat": 52.4229979,
+    "lon": 13.4762316
+  },
+  {
+    "id": 2047765230,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Clayallee 330",
+    "district": "Zehlendorf",
+    "lat": 52.4378334,
+    "lon": 13.2626638
+  },
+  {
+    "id": 2050365795,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Rigaer Straße 44",
+    "district": "Friedrichshain",
+    "lat": 52.515536,
+    "lon": 13.468728
+  },
+  {
+    "id": 2339246305,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Blissestraße 36",
+    "district": "Wilmersdorf",
+    "lat": 52.4820455,
+    "lon": 13.3198796
+  },
+  {
+    "id": 2376977543,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Danckelmannstraße 57-60",
+    "district": "Charlottenburg",
+    "lat": 52.5176758,
+    "lon": 13.290531
+  },
+  {
+    "id": 2623904878,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "Tauernallee 30-58",
+    "district": "Mariendorf",
+    "lat": 52.4257885,
+    "lon": 13.4014959
+  },
+  {
+    "id": 2782835422,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Oraniendamm 6-10",
+    "district": "Waidmannslust",
+    "lat": 52.6072867,
+    "lon": 13.3264979
+  },
+  {
+    "id": 2850406401,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Laubacher Straße 13",
+    "district": "Friedenau",
+    "lat": 52.4711485,
+    "lon": 13.3203023
+  },
+  {
+    "id": 3307282338,
+    "name": "EDEKA",
+    "brand": "EDEKA",
+    "address": "Riesaer Straße 102",
+    "district": "Hellersdorf",
+    "lat": 52.5299667,
+    "lon": 13.6208656
+  },
+  {
+    "id": 3862782311,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Knesebeckstraße 56",
+    "district": "Charlottenburg",
+    "lat": 52.5005138,
+    "lon": 13.3222176
+  },
+  {
+    "id": 3889187276,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Straßburger Straße 9A-C",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5291922,
+    "lon": 13.4135783
+  },
+  {
+    "id": 4553089244,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Obstallee 28-30",
+    "district": "",
+    "lat": 52.5221765,
+    "lon": 13.1638589
+  },
+  {
+    "id": 4848074537,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Schloßstraße 10",
+    "district": "",
+    "lat": 52.4627571,
+    "lon": 13.3240444
+  },
+  {
+    "id": 5322104714,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Jungfernheideweg 2",
+    "district": "Siemensstadt",
+    "lat": 52.5370546,
+    "lon": 13.2721745
+  },
+  {
+    "id": 5426133815,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Viktoria-Luise-Platz 10",
+    "district": "Schöneberg",
+    "lat": 52.4952288,
+    "lon": 13.3416349
+  },
+  {
+    "id": 6277944473,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Massower Straße 5",
+    "district": "",
+    "lat": 52.5077376,
+    "lon": 13.5131475
+  },
+  {
+    "id": 6405908039,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Maybachufer 36-38",
+    "district": "",
+    "lat": 52.4918563,
+    "lon": 13.4326134
+  },
+  {
+    "id": 6595730361,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Templiner Straße 12",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5320129,
+    "lon": 13.4078491
+  },
+  {
+    "id": 6808350137,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Invalidenstraße 74",
+    "district": "Moabit",
+    "lat": 52.5273276,
+    "lon": 13.3729712
+  },
+  {
+    "id": 7658861472,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Stresemannstraße 52",
+    "district": "Kreuzberg",
+    "lat": 52.5023465,
+    "lon": 13.3855468
+  },
+  {
+    "id": 10279617097,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Fürstenberger Straße 8",
+    "district": "",
+    "lat": 52.5375317,
+    "lon": 13.405478
+  },
+  {
+    "id": 12956133299,
+    "name": "EDEKA",
+    "brand": "Edeka",
+    "address": "Lehrter Straße 24",
+    "district": "",
+    "lat": 52.5312011,
+    "lon": 13.3619039
+  },
+  {
+    "id": 747081734,
+    "name": "Edeka Am Brunsi",
+    "brand": "Edeka",
+    "address": "Brunsbütteler Damm 196",
+    "district": "Spandau",
+    "lat": 52.5338138,
+    "lon": 13.1676748
+  },
+  {
+    "id": 2495554577,
+    "name": "Edeka Bergmannstraße",
+    "brand": "Edeka",
+    "address": "Bergmannstraße 5",
+    "district": "",
+    "lat": 52.4896784,
+    "lon": 13.3884205
+  },
+  {
+    "id": 529709164,
+    "name": "EDEKA Brabanski",
+    "brand": "EDEKA",
+    "address": "Fregestraße 6",
+    "district": "Friedenau",
+    "lat": 52.4713349,
+    "lon": 13.3371272
+  },
+  {
+    "id": 2013009700,
+    "name": "Edeka Brehm City",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.4945118,
+    "lon": 13.4208245
+  },
+  {
+    "id": 5505144606,
+    "name": "EDEKA Burau",
+    "brand": "Edeka",
+    "address": "Mainzer Straße 13",
+    "district": "Wilmersdorf",
+    "lat": 52.4797483,
+    "lon": 13.3267804
+  },
+  {
+    "id": 560903128,
+    "name": "Edeka Center Tempelhof",
+    "brand": "EDEKA",
+    "address": "Tempelhofer Damm 227",
+    "district": "Tempelhof",
+    "lat": 52.4559449,
+    "lon": 13.3871535
+  },
+  {
+    "id": 808406149,
+    "name": "EDEKA Colombino",
+    "brand": "Edeka",
+    "address": "Zeltinger Platz 8",
+    "district": "",
+    "lat": 52.6329513,
+    "lon": 13.2907953
+  },
+  {
+    "id": 482585492,
+    "name": "Edeka Focke",
+    "brand": "Edeka",
+    "address": "Barbarossastraße 69",
+    "district": "Schöneberg",
+    "lat": 52.4917705,
+    "lon": 13.3547337
+  },
+  {
+    "id": 1535054255,
+    "name": "EDEKA Friedrich",
+    "brand": "EDEKA",
+    "address": "Hellersdorfer Straße 83",
+    "district": "Hellersdorf",
+    "lat": 52.5232644,
+    "lon": 13.5867296
+  },
+  {
+    "id": 1370691440,
+    "name": "Edeka Fromm",
+    "brand": "Edeka",
+    "address": "Müllerstraße 127",
+    "district": "Wedding",
+    "lat": 52.5526675,
+    "lon": 13.3476614
+  },
+  {
+    "id": 2864448355,
+    "name": "EDEKA Fromm",
+    "brand": "EDEKA",
+    "address": "Gerlinger Straße 4",
+    "district": "Buckow",
+    "lat": 52.4176314,
+    "lon": 13.436224
+  },
+  {
+    "id": 8693899527,
+    "name": "EDEKA Fromm",
+    "brand": "Edeka",
+    "address": "Müllerstraße 12 a-c",
+    "district": "",
+    "lat": 52.5428586,
+    "lon": 13.3658942
+  },
+  {
+    "id": 715040103,
+    "name": "Edeka Gäth",
+    "brand": "EDEKA",
+    "address": "Steglitzer Damm 24",
+    "district": "Steglitz",
+    "lat": 52.4506573,
+    "lon": 13.3399913
+  },
+  {
+    "id": 11256118796,
+    "name": "EDEKA Gayermann",
+    "brand": "Edeka",
+    "address": "Marienfelder Chaussee 143",
+    "district": "Buckow",
+    "lat": 52.4154025,
+    "lon": 13.4062078
+  },
+  {
+    "id": 11970625112,
+    "name": "EDEKA Gayermann",
+    "brand": "EDEKA",
+    "address": "Barnetstraße 41",
+    "district": "Lichtenrade",
+    "lat": 52.3982545,
+    "lon": 13.3911351
+  },
+  {
+    "id": 9550624125,
+    "name": "EDEKA Görse & Meichsner",
+    "brand": "Edeka",
+    "address": "Handjerystraße 99",
+    "district": "Friedenau",
+    "lat": 52.4770954,
+    "lon": 13.3329979
+  },
+  {
+    "id": 499637619,
+    "name": "EDEKA Heppner",
+    "brand": "Edeka",
+    "address": "Schloßstraße 98",
+    "district": "Steglitz",
+    "lat": 52.459073,
+    "lon": 13.3232009
+  },
+  {
+    "id": 294036281,
+    "name": "EDEKA Iden",
+    "brand": "Edeka",
+    "address": "Wilhelmsruher Damm 231",
+    "district": "Wittenau",
+    "lat": 52.5947516,
+    "lon": 13.3352782
+  },
+  {
+    "id": 2347507117,
+    "name": "EDEKA Jost",
+    "brand": "Edeka",
+    "address": "Kantstraße 24",
+    "district": "Charlottenburg",
+    "lat": 52.5061041,
+    "lon": 13.3203142
+  },
+  {
+    "id": 317991364,
+    "name": "EDEKA Kelz",
+    "brand": "Edeka",
+    "address": "Straße der Pariser Kommune 38",
+    "district": "Friedrichshain",
+    "lat": 52.5160549,
+    "lon": 13.4406783
+  },
+  {
+    "id": 12568075035,
+    "name": "EDEKA Kelz",
+    "brand": "Edeka",
+    "address": "Franz-Mehring-Platz 6",
+    "district": "",
+    "lat": 52.5142024,
+    "lon": 13.4379257
+  },
+  {
+    "id": 1415880278,
+    "name": "EDEKA Kiezmarkt",
+    "brand": "Edeka",
+    "address": "Torstraße 206",
+    "district": "Mitte",
+    "lat": 52.5278268,
+    "lon": 13.3917759
+  },
+  {
+    "id": 12703360202,
+    "name": "EDEKA Korkmaz",
+    "brand": "Edeka",
+    "address": "Osnabrücker Straße 27",
+    "district": "",
+    "lat": 52.5255904,
+    "lon": 13.301564
+  },
+  {
+    "id": 667211402,
+    "name": "Edeka Laurman",
+    "brand": "Edeka",
+    "address": "Steubenplatz 4",
+    "district": "Westend",
+    "lat": 52.5169689,
+    "lon": 13.2615696
+  },
+  {
+    "id": 251340008,
+    "name": "Edeka Leher",
+    "brand": "EDEKA",
+    "address": "Fürstenwalder Allee 314",
+    "district": "Rahnsdorf",
+    "lat": 52.4315738,
+    "lon": 13.7149761
+  },
+  {
+    "id": 11191196418,
+    "name": "Edeka Lenkeit",
+    "brand": "EDEKA",
+    "address": "An der alten Gärtnerei 1",
+    "district": "",
+    "lat": 52.4395336,
+    "lon": 13.4093372
+  },
+  {
+    "id": 11255892293,
+    "name": "EDEKA Lenkeit",
+    "brand": "EDEKA",
+    "address": "Rixdorfer Straße 69",
+    "district": "Mariendorf",
+    "lat": 52.4478095,
+    "lon": 13.4046472
+  },
+  {
+    "id": 293244992,
+    "name": "EDEKA Lindenberg",
+    "brand": "Edeka",
+    "address": "Markstraße 32-34",
+    "district": "",
+    "lat": 52.560815,
+    "lon": 13.3654858
+  },
+  {
+    "id": 1776155102,
+    "name": "Edeka M. Fiebig",
+    "brand": "Edeka",
+    "address": "Kottbusser Damm 80",
+    "district": "Neukölln",
+    "lat": 52.4916049,
+    "lon": 13.4232761
+  },
+  {
+    "id": 10035991556,
+    "name": "Edeka Marienburger Straße",
+    "brand": "Edeka",
+    "address": "Winsstraße 14a",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5339932,
+    "lon": 13.4261824
+  },
+  {
+    "id": 315801862,
+    "name": "EDEKA Martin-Luther-Straße",
+    "brand": "Edeka",
+    "address": "Martin-Luther-Straße 52-54",
+    "district": "Schöneberg",
+    "lat": 52.4920032,
+    "lon": 13.3447835
+  },
+  {
+    "id": 9561434407,
+    "name": "EDEKA Meissner",
+    "brand": "Edeka",
+    "address": "Leibnizstraße 96",
+    "district": "",
+    "lat": 52.5118228,
+    "lon": 13.3143192
+  },
+  {
+    "id": 2286174929,
+    "name": "EDEKA Meissner an der Nolle",
+    "brand": "Edeka",
+    "address": "Nollendorfplatz 8-9",
+    "district": "Schöneberg",
+    "lat": 52.4989336,
+    "lon": 13.3545583
+  },
+  {
+    "id": 418632158,
+    "name": "Edeka Nah und Gut",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5420785,
+    "lon": 13.4198029
+  },
+  {
+    "id": 313080918,
+    "name": "Edeka Neue Kantstraße",
+    "brand": "Edeka",
+    "address": "Neue Kantstraße 29-30",
+    "district": "Charlottenburg",
+    "lat": 52.5065505,
+    "lon": 13.2930747
+  },
+  {
+    "id": 417021873,
+    "name": "Edeka Ostseestraße",
+    "brand": "Edeka",
+    "address": "Ostseestraße 107-109",
+    "district": "",
+    "lat": 52.546533,
+    "lon": 13.4429678
+  },
+  {
+    "id": 808406147,
+    "name": "EDEKA P. Erler",
+    "brand": "Edeka",
+    "address": "Ludolfingerplatz 6",
+    "district": "",
+    "lat": 52.6328875,
+    "lon": 13.287041
+  },
+  {
+    "id": 417019740,
+    "name": "Edeka Peth",
+    "brand": "Edeka",
+    "address": "Berliner Allee 100",
+    "district": "Weißensee",
+    "lat": 52.5498309,
+    "lon": 13.4588499
+  },
+  {
+    "id": 442394340,
+    "name": "Edeka Prang",
+    "brand": "EDEKA",
+    "address": "Mariendorfer Damm 81",
+    "district": "Mariendorf",
+    "lat": 52.4453501,
+    "lon": 13.386125
+  },
+  {
+    "id": 667211334,
+    "name": "Edeka Reichsstraße",
+    "brand": "Edeka",
+    "address": "Reichsstraße 94",
+    "district": "Westend",
+    "lat": 52.5129578,
+    "lon": 13.2656846
+  },
+  {
+    "id": 3618538618,
+    "name": "EDEKA Residenzstraße",
+    "brand": "Edeka",
+    "address": "Residenzstraße 34",
+    "district": "Reinickendorf",
+    "lat": 52.5669709,
+    "lon": 13.3613922
+  },
+  {
+    "id": 2936781767,
+    "name": "EDEKA Rübel",
+    "brand": "EDEKA",
+    "address": "Hohefeldstraße 21;23;25;27",
+    "district": "Hermsdorf",
+    "lat": 52.6225702,
+    "lon": 13.3032601
+  },
+  {
+    "id": 4892038733,
+    "name": "Edeka Sapphire",
+    "brand": "Edeka",
+    "address": "Chausseestraße 43",
+    "district": "Mitte",
+    "lat": 52.5342508,
+    "lon": 13.3787546
+  },
+  {
+    "id": 9154787137,
+    "name": "Edeka Schaaf",
+    "brand": "Edeka",
+    "address": "Schillingstraße 2",
+    "district": "Mitte",
+    "lat": 52.5174568,
+    "lon": 13.4206829
+  },
+  {
+    "id": 2140006472,
+    "name": "Edeka Schmitt",
+    "brand": "Edeka",
+    "address": "1",
+    "district": "Pankow",
+    "lat": 52.5671908,
+    "lon": 13.4105009
+  },
+  {
+    "id": 9268122917,
+    "name": "EDEKA Schmitt",
+    "brand": "Edeka",
+    "address": "Seesener Straße 31",
+    "district": "",
+    "lat": 52.4967809,
+    "lon": 13.2903425
+  },
+  {
+    "id": 8825296305,
+    "name": "EDEKA Schnelle",
+    "brand": "Edeka",
+    "address": "Alt-Stralau 66",
+    "district": "",
+    "lat": 52.496736,
+    "lon": 13.4667344
+  },
+  {
+    "id": 766742192,
+    "name": "EDEKA Siebert",
+    "brand": "Edeka",
+    "address": "Hasenheide 57",
+    "district": "",
+    "lat": 52.4891694,
+    "lon": 13.4091957
+  },
+  {
+    "id": 352905900,
+    "name": "Edeka Siegler",
+    "brand": "Edeka",
+    "address": "Richard-von-Weizsäcker-Platz 1-2",
+    "district": "Schöneberg",
+    "lat": 52.4856563,
+    "lon": 13.3568344
+  },
+  {
+    "id": 11504226612,
+    "name": "EDEKA Skalitzer Straße",
+    "brand": "Edeka",
+    "address": "Skalitzer Straße 122",
+    "district": "",
+    "lat": 52.4993451,
+    "lon": 13.4222008
+  },
+  {
+    "id": 1718182244,
+    "name": "EDEKA Stadie",
+    "brand": "Edeka",
+    "address": "Flankenschanze 32",
+    "district": "Spandau",
+    "lat": 52.5425148,
+    "lon": 13.197201
+  },
+  {
+    "id": 3964762128,
+    "name": "Edeka Tempelhofer Damm",
+    "brand": "Edeka",
+    "address": "Tempelhofer Damm 198",
+    "district": "",
+    "lat": 52.4585848,
+    "lon": 13.3828398
+  },
+  {
+    "id": 253616655,
+    "name": "EDEKA Thaut",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.510061,
+    "lon": 13.4709585
+  },
+  {
+    "id": 10113359153,
+    "name": "Edeka Treugut",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.4979385,
+    "lon": 13.3630995
+  },
+  {
+    "id": 269479009,
+    "name": "Edeka Ungefroren",
+    "brand": "Edeka",
+    "address": "Fischerinsel 12",
+    "district": "Mitte",
+    "lat": 52.513684,
+    "lon": 13.4060088
+  },
+  {
+    "id": 2082343419,
+    "name": "EDEKA Wilmersdorfer Straße",
+    "brand": "Edeka",
+    "address": "Wilmersdorfer Straße",
+    "district": "Charlottenburg",
+    "lat": 52.5097406,
+    "lon": 13.305296
+  },
+  {
+    "id": 286740930,
+    "name": "Edeka Wittenbergplatz",
+    "brand": "Edeka",
+    "address": "Wittenbergplatz 4",
+    "district": "Schöneberg",
+    "lat": 52.5026043,
+    "lon": 13.3436334
+  },
+  {
+    "id": 283443676,
+    "name": "EDEKA Y.Reichelt",
+    "brand": "Edeka",
+    "address": "Levetzowstraße 10-10a",
+    "district": "Moabit",
+    "lat": 52.5208001,
+    "lon": 13.3343449
+  },
+  {
+    "id": 1193352453,
+    "name": "EDEKA Yaras",
+    "brand": "Edeka",
+    "address": "Mariendorfer Damm 186",
+    "district": "Mariendorf",
+    "lat": 52.4349946,
+    "lon": 13.3891249
+  },
+  {
+    "id": 276145759,
+    "name": "EDEKA Yilmaz",
+    "brand": "EDEKA",
+    "address": "Baumschulenstraße 31",
+    "district": "",
+    "lat": 52.4638746,
+    "lon": 13.4858575
+  },
+  {
+    "id": 11134671308,
+    "name": "EDEKA Zahl",
+    "brand": "Edeka",
+    "address": "Helmholtzstraße 3 c",
+    "district": "",
+    "lat": 52.5201626,
+    "lon": 13.3198466
+  },
+  {
+    "id": 8913626619,
+    "name": "Einkaufsmarkt",
+    "brand": "Einkaufsmarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.4521833,
+    "lon": 13.6022591
+  },
+  {
+    "id": 5887756717,
+    "name": "El-Fi Supermarket",
+    "brand": "El-Fi Supermarket",
+    "address": "",
+    "district": "",
+    "lat": 52.5527831,
+    "lon": 13.382373
+  },
+  {
+    "id": 5034396389,
+    "name": "El-Fi Supermarkt",
+    "brand": "El-Fi Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.4954043,
+    "lon": 13.4201374
+  },
+  {
+    "id": 6766866985,
+    "name": "Elmas",
+    "brand": "Elmas",
+    "address": "Müllerstraße 128A",
+    "district": "Wedding",
+    "lat": 52.5522992,
+    "lon": 13.3482885
+  },
+  {
+    "id": 2324410164,
+    "name": "Elmas Market",
+    "brand": "Elmas Market",
+    "address": "Stuttgarter Platz 11",
+    "district": "Charlottenburg",
+    "lat": 52.5057107,
+    "lon": 13.303342
+  },
+  {
+    "id": 582854288,
+    "name": "Eminem Supermarkt",
+    "brand": "Eminem Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.4191394,
+    "lon": 13.3683653
+  },
+  {
+    "id": 621202048,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Fritz-Reuter-Allee 183",
+    "district": "",
+    "lat": 52.437276,
+    "lon": 13.4479136
+  },
+  {
+    "id": 626859062,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Badstraße 9",
+    "district": "Gesundbrunnen",
+    "lat": 52.5501398,
+    "lon": 13.3859287
+  },
+  {
+    "id": 848871594,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Skalitzer Straße 129",
+    "district": "Kreuzberg",
+    "lat": 52.4992926,
+    "lon": 13.4206736
+  },
+  {
+    "id": 1252306901,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Albrechtstraße 19",
+    "district": "",
+    "lat": 52.4544826,
+    "lon": 13.3273923
+  },
+  {
+    "id": 1336718187,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "",
+    "district": "",
+    "lat": 52.5383903,
+    "lon": 13.2072817
+  },
+  {
+    "id": 1659884040,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "",
+    "district": "",
+    "lat": 52.5482851,
+    "lon": 13.3563325
+  },
+  {
+    "id": 2280615913,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Tempelhofer Damm 2",
+    "district": "Tempelhof",
+    "lat": 52.4841209,
+    "lon": 13.3853942
+  },
+  {
+    "id": 2314280248,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Wrangelstraße 85",
+    "district": "Kreuzberg",
+    "lat": 52.4989417,
+    "lon": 13.4413763
+  },
+  {
+    "id": 3079828154,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Bundesallee 180",
+    "district": "Wilmersdorf",
+    "lat": 52.4876912,
+    "lon": 13.3315231
+  },
+  {
+    "id": 3855567148,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Potsdamer Straße 152",
+    "district": "Schöneberg",
+    "lat": 52.4967793,
+    "lon": 13.3611893
+  },
+  {
+    "id": 4547089200,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "",
+    "district": "",
+    "lat": 52.5088125,
+    "lon": 13.3045006
+  },
+  {
+    "id": 4626472750,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Wilhelmsruher Damm 129",
+    "district": "",
+    "lat": 52.5962596,
+    "lon": 13.3552924
+  },
+  {
+    "id": 4741998242,
+    "name": "Eurogida",
+    "brand": "Eurogida",
+    "address": "Hermannstraße 218",
+    "district": "",
+    "lat": 52.4790826,
+    "lon": 13.4259339
+  },
+  {
+    "id": 5562843821,
+    "name": "Europa Markt",
+    "brand": "Europa Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.4996854,
+    "lon": 13.3346985
+  },
+  {
+    "id": 12110529973,
+    "name": "Exo Markt",
+    "brand": "Exo Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.5664697,
+    "lon": 13.3298797
+  },
+  {
+    "id": 9530161751,
+    "name": "Exo Markt Afroshop",
+    "brand": "Exo Markt Afroshop",
+    "address": "",
+    "district": "",
+    "lat": 52.5672099,
+    "lon": 13.3294281
+  },
+  {
+    "id": 5014501124,
+    "name": "Family Markt",
+    "brand": "Family Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.5357141,
+    "lon": 13.1950929
+  },
+  {
+    "id": 9531153631,
+    "name": "Firangi",
+    "brand": "Firangi",
+    "address": "Schnellerstraße 30",
+    "district": "",
+    "lat": 52.4551386,
+    "lon": 13.5137729
+  },
+  {
+    "id": 2386082873,
+    "name": "FrischeParadies",
+    "brand": "FrischeParadies",
+    "address": "Morsestraße 2",
+    "district": "Charlottenburg",
+    "lat": 52.5216418,
+    "lon": 13.3213662
+  },
+  {
+    "id": 12475543329,
+    "name": "Galeria Markthalle",
+    "brand": "Galeria",
+    "address": "",
+    "district": "",
+    "lat": 52.4872366,
+    "lon": 13.4238024
+  },
+  {
+    "id": 2086361728,
+    "name": "Gneisenau Markt",
+    "brand": "Edeka",
+    "address": "Gneisenaustraße 84",
+    "district": "Kreuzberg",
+    "lat": 52.4914049,
+    "lon": 13.3967142
+  },
+  {
+    "id": 1349696689,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "",
+    "district": "",
+    "lat": 52.5214186,
+    "lon": 13.387769
+  },
+  {
+    "id": 1659325636,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Müllerstraße 30a",
+    "district": "",
+    "lat": 52.547702,
+    "lon": 13.3573756
+  },
+  {
+    "id": 1816817789,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Alexanderplatz 8",
+    "district": "",
+    "lat": 52.5227661,
+    "lon": 13.4123665
+  },
+  {
+    "id": 2324406336,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Kantstraße 101",
+    "district": "",
+    "lat": 52.5065737,
+    "lon": 13.3027807
+  },
+  {
+    "id": 3632644957,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Hauptstraße 132",
+    "district": "Schöneberg",
+    "lat": 52.4845565,
+    "lon": 13.3537504
+  },
+  {
+    "id": 3837671815,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Tempelhofer Damm 120",
+    "district": "Tempelhof",
+    "lat": 52.4690441,
+    "lon": 13.3852152
+  },
+  {
+    "id": 3859397150,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Nollendorfplatz 8-9",
+    "district": "Schöneberg",
+    "lat": 52.4986926,
+    "lon": 13.3544224
+  },
+  {
+    "id": 5785097564,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Turmstraße 29",
+    "district": "",
+    "lat": 52.5265508,
+    "lon": 13.3416957
+  },
+  {
+    "id": 6030378239,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Potsdamer Platz",
+    "district": "",
+    "lat": 52.5096419,
+    "lon": 13.3771793
+  },
+  {
+    "id": 6535253437,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Rankestraße 33-34",
+    "district": "Charlottenburg",
+    "lat": 52.5036092,
+    "lon": 13.3352588
+  },
+  {
+    "id": 6848902763,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Teltower Damm 37-39",
+    "district": "Zehlendorf",
+    "lat": 52.4309068,
+    "lon": 13.2597744
+  },
+  {
+    "id": 7922093272,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "Kurfürstendamm 231",
+    "district": "",
+    "lat": 52.5036224,
+    "lon": 13.3328311
+  },
+  {
+    "id": 11668609235,
+    "name": "Go Asia",
+    "brand": "Go Asia",
+    "address": "",
+    "district": "",
+    "lat": 52.5142829,
+    "lon": 13.4712425
+  },
+  {
+    "id": 6055317346,
+    "name": "Golden Ilakkya Asia",
+    "brand": "Golden Ilakkya Asia",
+    "address": "Rheinstraße 15",
+    "district": "",
+    "lat": 52.4696437,
+    "lon": 13.3329743
+  },
+  {
+    "id": 1588325816,
+    "name": "Grüne Geiß",
+    "brand": "Grüne Geiß",
+    "address": "Allee der Kosmonauten 151",
+    "district": "Marzahn",
+    "lat": 52.5345492,
+    "lon": 13.5513842
+  },
+  {
+    "id": 728707803,
+    "name": "Grüner Laden",
+    "brand": "Grüner Laden",
+    "address": "Bundesratufer 5",
+    "district": "Moabit",
+    "lat": 52.523,
+    "lon": 13.3400151
+  },
+  {
+    "id": 12886474804,
+    "name": "Grünschnabel",
+    "brand": "Grünschnabel",
+    "address": "Steinstraße 37",
+    "district": "",
+    "lat": 52.3881153,
+    "lon": 13.3979986
+  },
+  {
+    "id": 6508696685,
+    "name": "Habibi",
+    "brand": "Habibi",
+    "address": "Stendaler Straße",
+    "district": "",
+    "lat": 52.532841,
+    "lon": 13.3505936
+  },
+  {
+    "id": 11521734194,
+    "name": "Hamdan",
+    "brand": "Hamdan",
+    "address": "",
+    "district": "",
+    "lat": 52.5250926,
+    "lon": 13.4668055
+  },
+  {
+    "id": 12110545886,
+    "name": "Hayal Supermarkt",
+    "brand": "Hayal Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.5650484,
+    "lon": 13.3281349
+  },
+  {
+    "id": 1588155369,
+    "name": "HIT",
+    "brand": "HIT",
+    "address": "Anton-Wilhelm-Amo-Straße 69",
+    "district": "Mitte",
+    "lat": 52.5117711,
+    "lon": 13.3839109
+  },
+  {
+    "id": 3686065800,
+    "name": "HIT",
+    "brand": "HIT",
+    "address": "Wilmersdorfer Straße 26-28",
+    "district": "Charlottenburg",
+    "lat": 52.5135233,
+    "lon": 13.3047764
+  },
+  {
+    "id": 7308353335,
+    "name": "HIT",
+    "brand": "HIT",
+    "address": "Mariendorfer Damm 292-298",
+    "district": "",
+    "lat": 52.4258086,
+    "lon": 13.3913094
+  },
+  {
+    "id": 313188999,
+    "name": "HIT Ullrich",
+    "brand": "HIT",
+    "address": "Schloßstraße 110",
+    "district": "Steglitz",
+    "lat": 52.4610364,
+    "lon": 13.3251331
+  },
+  {
+    "id": 13327937391,
+    "name": "India Go",
+    "brand": "India Go",
+    "address": "",
+    "district": "",
+    "lat": 52.5141147,
+    "lon": 13.4728407
+  },
+  {
+    "id": 3081225430,
+    "name": "Indomarkt",
+    "brand": "Indomarkt",
+    "address": "Reinickendorfer Straße 118",
+    "district": "",
+    "lat": 52.5425485,
+    "lon": 13.3695233
+  },
+  {
+    "id": 1767243397,
+    "name": "Intermarkt",
+    "brand": "Intermarkt",
+    "address": "Kienhorststraße 156",
+    "district": "Reinickendorf",
+    "lat": 52.5747487,
+    "lon": 13.3146512
+  },
+  {
+    "id": 777083090,
+    "name": "International Supermarket",
+    "brand": "International Supermarket",
+    "address": "Oranienstraße 71",
+    "district": "",
+    "lat": 52.5050124,
+    "lon": 13.4076816
+  },
+  {
+    "id": 359754358,
+    "name": "Istanbul Supermarkt",
+    "brand": "Istanbul Supermarkt",
+    "address": "Dominicusstraße 29",
+    "district": "Schöneberg",
+    "lat": 52.4818248,
+    "lon": 13.3489273
+  },
+  {
+    "id": 7200854537,
+    "name": "Kartar Food",
+    "brand": "Kartar Food",
+    "address": "Wilmersdorfer Straße 8",
+    "district": "Charlottenburg",
+    "lat": 52.51747,
+    "lon": 13.304337
+  },
+  {
+    "id": 1389419217,
+    "name": "Kauf Markt",
+    "brand": "Kauf Markt",
+    "address": "Torstraße 169-171",
+    "district": "",
+    "lat": 52.5290342,
+    "lon": 13.3952307
+  },
+  {
+    "id": 262353263,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Schnellerstraße 21",
+    "district": "",
+    "lat": 52.457312,
+    "lon": 13.5078518
+  },
+  {
+    "id": 269478706,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Rudower Chaussee 12",
+    "district": "Adlershof",
+    "lat": 52.432822,
+    "lon": 13.5351004
+  },
+  {
+    "id": 289359993,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Weißenhöher Straße 88 - 108",
+    "district": "",
+    "lat": 52.5068475,
+    "lon": 13.5578938
+  },
+  {
+    "id": 336027358,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Breite Straße 20",
+    "district": "Pankow",
+    "lat": 52.5704705,
+    "lon": 13.4036206
+  },
+  {
+    "id": 465318626,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Karl-Marx-Straße 66",
+    "district": "",
+    "lat": 52.4822154,
+    "lon": 13.4316168
+  },
+  {
+    "id": 472501535,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Marktstraße 6",
+    "district": "",
+    "lat": 52.504154,
+    "lon": 13.4729988
+  },
+  {
+    "id": 498839307,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Brunnenstraße 105-109",
+    "district": "Gesundbrunnen",
+    "lat": 52.547982,
+    "lon": 13.3916155
+  },
+  {
+    "id": 532438697,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "",
+    "district": "",
+    "lat": 52.4093176,
+    "lon": 13.3810307
+  },
+  {
+    "id": 549739435,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Frankfurter Allee 113-117",
+    "district": "Lichtenberg",
+    "lat": 52.5144363,
+    "lon": 13.4772128
+  },
+  {
+    "id": 632432196,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Sewanstraße 4-6",
+    "district": "Friedrichsfelde",
+    "lat": 52.4991529,
+    "lon": 13.4969962
+  },
+  {
+    "id": 664265053,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Hermann-Blankenstein-Straße 38",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5236849,
+    "lon": 13.4616186
+  },
+  {
+    "id": 667867203,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Friedrichshagener Straße 38",
+    "district": "Köpenick",
+    "lat": 52.4529155,
+    "lon": 13.5867384
+  },
+  {
+    "id": 672157091,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Märkische Allee 166, 168, 172",
+    "district": "Marzahn",
+    "lat": 52.5335687,
+    "lon": 13.5384595
+  },
+  {
+    "id": 1065121023,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Am Juliusturm 42-46",
+    "district": "Haselhorst",
+    "lat": 52.5377219,
+    "lon": 13.2186317
+  },
+  {
+    "id": 1918454955,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Karl-Marx-Straße 231-235",
+    "district": "Neukölln",
+    "lat": 52.4686658,
+    "lon": 13.4432574
+  },
+  {
+    "id": 2850019701,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Senftenberger Ring 15",
+    "district": "Märkisches Viertel",
+    "lat": 52.599201,
+    "lon": 13.3541666
+  },
+  {
+    "id": 2966075122,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Müllerstraße 123-125",
+    "district": "Wedding",
+    "lat": 52.5531171,
+    "lon": 13.3462318
+  },
+  {
+    "id": 3112849844,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Walter-Friedrich-Straße 4",
+    "district": "Buch",
+    "lat": 52.6345809,
+    "lon": 13.495938
+  },
+  {
+    "id": 4546753612,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "Karl-Liebknecht-Straße 13",
+    "district": "Mitte",
+    "lat": 52.5224189,
+    "lon": 13.4075889
+  },
+  {
+    "id": 12810202365,
+    "name": "Kaufland",
+    "brand": "Kaufland",
+    "address": "",
+    "district": "",
+    "lat": 52.4292235,
+    "lon": 13.4548179
+  },
+  {
+    "id": 5797945753,
+    "name": "Kefan",
+    "brand": "Kefan",
+    "address": "Zingster Straße 6",
+    "district": "Neu-Hohenschönhausen",
+    "lat": 52.5649609,
+    "lon": 13.5037243
+  },
+  {
+    "id": 268845115,
+    "name": "Keilermarkt - Nah und gut",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.6097415,
+    "lon": 13.248277
+  },
+  {
+    "id": 4666096208,
+    "name": "Kernkraft - Rund um die Nuss",
+    "brand": "Kernkraft - Rund um die Nuss",
+    "address": "Markgrafendamm 3",
+    "district": "",
+    "lat": 52.4980205,
+    "lon": 13.4652952
+  },
+  {
+    "id": 79422426,
+    "name": "kiezmarkt",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.5716761,
+    "lon": 13.3124756
+  },
+  {
+    "id": 1003894168,
+    "name": "Kiezmarkt",
+    "brand": "Kiezmarkt",
+    "address": "Weidenweg 56",
+    "district": "",
+    "lat": 52.5188322,
+    "lon": 13.4543654
+  },
+  {
+    "id": 12365128598,
+    "name": "Kleene Bio Company",
+    "brand": "Kleene Bio Company",
+    "address": "Breite Straße 20",
+    "district": "",
+    "lat": 52.570312,
+    "lon": 13.4052755
+  },
+  {
+    "id": 8919248466,
+    "name": "Kosher Daily Markt",
+    "brand": "Kosher Daily Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.4971604,
+    "lon": 13.311877
+  },
+  {
+    "id": 11050421035,
+    "name": "Kosher4all",
+    "brand": "Kosher4all",
+    "address": "",
+    "district": "",
+    "lat": 52.50061,
+    "lon": 13.3054449
+  },
+  {
+    "id": 2935486802,
+    "name": "Kosherlife Koshere Lebensmittel",
+    "brand": "Kosherlife Koshere Lebensmittel",
+    "address": "Brunnenstraße 31",
+    "district": "Mitte",
+    "lat": 52.5348578,
+    "lon": 13.3983347
+  },
+  {
+    "id": 832835278,
+    "name": "Kral Discount",
+    "brand": "Kral Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5522643,
+    "lon": 13.3665842
+  },
+  {
+    "id": 439506670,
+    "name": "Kraut & Rüben",
+    "brand": "Kraut & Rüben",
+    "address": "Oranienstraße 15",
+    "district": "Kreuzberg",
+    "lat": 52.5006163,
+    "lon": 13.4231403
+  },
+  {
+    "id": 847029086,
+    "name": "Kutzner & Kutzner",
+    "brand": "Kutzner & Kutzner",
+    "address": "Schönhauser Allee 65",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5463248,
+    "lon": 13.4134748
+  },
+  {
+    "id": 2511149696,
+    "name": "Landladen Kastaven",
+    "brand": "Landladen Kastaven",
+    "address": "",
+    "district": "",
+    "lat": 52.5383876,
+    "lon": 13.4809667
+  },
+  {
+    "id": 79418658,
+    "name": "Ledo",
+    "brand": "Ledo",
+    "address": "Quäkerstraße 2",
+    "district": "Reinickendorf",
+    "lat": 52.5724174,
+    "lon": 13.3085471
+  },
+  {
+    "id": 1766338470,
+    "name": "Ledo",
+    "brand": "Ledo",
+    "address": "Heerstraße",
+    "district": "Westend",
+    "lat": 52.5095102,
+    "lon": 13.2704127
+  },
+  {
+    "id": 3113178261,
+    "name": "Ledo",
+    "brand": "Ledo",
+    "address": "Forckenbeckstraße 1",
+    "district": "Schmargendorf",
+    "lat": 52.4794195,
+    "lon": 13.3098357
+  },
+  {
+    "id": 12956961185,
+    "name": "LEDO",
+    "brand": "LEDO",
+    "address": "Magistratsweg 13",
+    "district": "",
+    "lat": 52.5221014,
+    "lon": 13.162059
+  },
+  {
+    "id": 1863559158,
+    "name": "Lekr",
+    "brand": "Lekr",
+    "address": "",
+    "district": "",
+    "lat": 52.5311942,
+    "lon": 13.4331435
+  },
+  {
+    "id": 257704877,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Neuendorfer Straße 30",
+    "district": "",
+    "lat": 52.5476038,
+    "lon": 13.2100323
+  },
+  {
+    "id": 259835062,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Falkenseer Damm 19",
+    "district": "Spandau",
+    "lat": 52.5428752,
+    "lon": 13.1965568
+  },
+  {
+    "id": 268664135,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Berliner Straße 27-28",
+    "district": "Pankow",
+    "lat": 52.563584,
+    "lon": 13.412146
+  },
+  {
+    "id": 283190905,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Oranienplatz 4",
+    "district": "",
+    "lat": 52.5021,
+    "lon": 13.4144676
+  },
+  {
+    "id": 301787391,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Provinzstraße 30",
+    "district": "",
+    "lat": 52.5652376,
+    "lon": 13.3788276
+  },
+  {
+    "id": 301845927,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Malteserstraße 162/164",
+    "district": "Marienfelde",
+    "lat": 52.4173898,
+    "lon": 13.3620284
+  },
+  {
+    "id": 315775250,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "",
+    "district": "",
+    "lat": 52.5567323,
+    "lon": 13.4373178
+  },
+  {
+    "id": 319211583,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Friedenstraße 94a",
+    "district": "Friedrichshain",
+    "lat": 52.5223299,
+    "lon": 13.4351805
+  },
+  {
+    "id": 320074857,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Choriner Straße 64/64a",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5345191,
+    "lon": 13.4079979
+  },
+  {
+    "id": 389081203,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Wilhelminenhofstraße 83-85",
+    "district": "Oberschöneweide",
+    "lat": 52.4611526,
+    "lon": 13.5164664
+  },
+  {
+    "id": 419545765,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Badstraße 60",
+    "district": "Gesundbrunnen",
+    "lat": 52.5511375,
+    "lon": 13.3833679
+  },
+  {
+    "id": 441514942,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Hermannstraße 55",
+    "district": "",
+    "lat": 52.4769707,
+    "lon": 13.4261428
+  },
+  {
+    "id": 441734595,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Flughafenstraße 1",
+    "district": "",
+    "lat": 52.4816182,
+    "lon": 13.4334593
+  },
+  {
+    "id": 475897824,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Kottbusser Straße 16a",
+    "district": "Kreuzberg",
+    "lat": 52.4968269,
+    "lon": 13.419876
+  },
+  {
+    "id": 482647762,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "",
+    "district": "",
+    "lat": 52.5619496,
+    "lon": 13.3656789
+  },
+  {
+    "id": 487485823,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Rothenburgstraße 38a",
+    "district": "Steglitz",
+    "lat": 52.458523,
+    "lon": 13.318817
+  },
+  {
+    "id": 519175242,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Clayallee 278",
+    "district": "Zehlendorf",
+    "lat": 52.4416994,
+    "lon": 13.2667886
+  },
+  {
+    "id": 616298762,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Wilmersdorfer Straße 126",
+    "district": "Charlottenburg",
+    "lat": 52.5096958,
+    "lon": 13.3059948
+  },
+  {
+    "id": 620704393,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "",
+    "district": "",
+    "lat": 52.4809259,
+    "lon": 13.4387009
+  },
+  {
+    "id": 621903300,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Charlottenstraße 1",
+    "district": "Kreuzberg",
+    "lat": 52.5054126,
+    "lon": 13.3930804
+  },
+  {
+    "id": 663226297,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Warschauer Platz 14",
+    "district": "",
+    "lat": 52.5049044,
+    "lon": 13.4499188
+  },
+  {
+    "id": 707456082,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Reinickendorfer Straße 41",
+    "district": "",
+    "lat": 52.5492959,
+    "lon": 13.3697076
+  },
+  {
+    "id": 800531142,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Schloßstraße 1",
+    "district": "Steglitz",
+    "lat": 52.4649386,
+    "lon": 13.3258786
+  },
+  {
+    "id": 892779992,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Kniprodestraße 26a",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5343355,
+    "lon": 13.4456503
+  },
+  {
+    "id": 960127307,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Leipziger Straße 42",
+    "district": "Mitte",
+    "lat": 52.5104276,
+    "lon": 13.3950162
+  },
+  {
+    "id": 976106227,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Mühlenstraße 2",
+    "district": "Zehlendorf",
+    "lat": 52.4294767,
+    "lon": 13.2603047
+  },
+  {
+    "id": 989194577,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "",
+    "district": "",
+    "lat": 52.5525558,
+    "lon": 13.4214016
+  },
+  {
+    "id": 1203692599,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Luisenstraße 52",
+    "district": "Mitte",
+    "lat": 52.5244433,
+    "lon": 13.3795237
+  },
+  {
+    "id": 1252476612,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Schönhauser Allee 119",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5485122,
+    "lon": 13.4131107
+  },
+  {
+    "id": 1534211674,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Märkische Allee 140A",
+    "district": "Marzahn",
+    "lat": 52.5309093,
+    "lon": 13.5372987
+  },
+  {
+    "id": 1882245298,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Knesebeckstraße 38",
+    "district": "Charlottenburg",
+    "lat": 52.5007022,
+    "lon": 13.3213671
+  },
+  {
+    "id": 1995012778,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Zeughofstraße 23A",
+    "district": "Kreuzberg",
+    "lat": 52.5007114,
+    "lon": 13.4347352
+  },
+  {
+    "id": 2261408339,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Blankenburger Chaussee 10",
+    "district": "Karow",
+    "lat": 52.6079352,
+    "lon": 13.4780321
+  },
+  {
+    "id": 2634887168,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Kleiststraße 3-6",
+    "district": "Schöneberg",
+    "lat": 52.500453,
+    "lon": 13.3507381
+  },
+  {
+    "id": 2782835448,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Oraniendamm 6-10",
+    "district": "Waidmannslust",
+    "lat": 52.6077274,
+    "lon": 13.3260991
+  },
+  {
+    "id": 2807783135,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Stresemannstraße 72-78",
+    "district": "Kreuzberg",
+    "lat": 52.503844,
+    "lon": 13.3837544
+  },
+  {
+    "id": 2985061530,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Seesener Straße 10-13",
+    "district": "Halensee",
+    "lat": 52.4915993,
+    "lon": 13.2982267
+  },
+  {
+    "id": 3060693588,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Potsdamer Straße 203",
+    "district": "",
+    "lat": 52.4917687,
+    "lon": 13.3611473
+  },
+  {
+    "id": 4224268256,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Müllerstraße 25",
+    "district": "Wedding",
+    "lat": 52.5464131,
+    "lon": 13.3599245
+  },
+  {
+    "id": 4787095825,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Prenzlauer Allee 44",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5362946,
+    "lon": 13.4229304
+  },
+  {
+    "id": 5969997511,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "",
+    "district": "",
+    "lat": 52.5153174,
+    "lon": 13.2874342
+  },
+  {
+    "id": 6783674441,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Rigaer Straße 36-38",
+    "district": "Friedrichshain",
+    "lat": 52.5161284,
+    "lon": 13.4659426
+  },
+  {
+    "id": 7013229041,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Hindenburgdamm 94",
+    "district": "Lichterfelde",
+    "lat": 52.4420025,
+    "lon": 13.3154003
+  },
+  {
+    "id": 7734882729,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Hauptstraße 65",
+    "district": "Friedenau",
+    "lat": 52.4771385,
+    "lon": 13.3417521
+  },
+  {
+    "id": 9929733280,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Boxhagener Straße 76",
+    "district": "",
+    "lat": 52.5073888,
+    "lon": 13.4681862
+  },
+  {
+    "id": 11194056380,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Ontarioseestraße 17",
+    "district": "Friedrichsfelde",
+    "lat": 52.4950988,
+    "lon": 13.522651
+  },
+  {
+    "id": 11276107035,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Steglitzer Damm 95",
+    "district": "",
+    "lat": 52.449956,
+    "lon": 13.3545317
+  },
+  {
+    "id": 11294003462,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Kiefholzstraße 189",
+    "district": "Baumschulenweg",
+    "lat": 52.46412,
+    "lon": 13.4875648
+  },
+  {
+    "id": 11556623387,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Marzahner Chaussee 201",
+    "district": "",
+    "lat": 52.5249554,
+    "lon": 13.5332762
+  },
+  {
+    "id": 11676605480,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Oberlandstraße 17",
+    "district": "",
+    "lat": 52.4651646,
+    "lon": 13.4162852
+  },
+  {
+    "id": 11970625117,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Nuthestraße 5",
+    "district": "Lichtenrade",
+    "lat": 52.3973864,
+    "lon": 13.3912786
+  },
+  {
+    "id": 12437309605,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Kurfürstendamm 231",
+    "district": "",
+    "lat": 52.5037195,
+    "lon": 13.3331254
+  },
+  {
+    "id": 12843181844,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "5-10",
+    "district": "",
+    "lat": 52.4869358,
+    "lon": 13.4239098
+  },
+  {
+    "id": 13154198701,
+    "name": "Lidl",
+    "brand": "Lidl",
+    "address": "Tempelhofer Damm 187",
+    "district": "",
+    "lat": 52.4595722,
+    "lon": 13.38488
+  },
+  {
+    "id": 423485548,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Reichenberger Straße 37",
+    "district": "Kreuzberg",
+    "lat": 52.4971196,
+    "lon": 13.4240914
+  },
+  {
+    "id": 1256746140,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Kollwitzstraße 17",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5327995,
+    "lon": 13.4137041
+  },
+  {
+    "id": 1354602117,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Hauptstraße 78",
+    "district": "Friedenau",
+    "lat": 52.4731384,
+    "lon": 13.3368295
+  },
+  {
+    "id": 1948128103,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Kaiserdamm 12",
+    "district": "Charlottenburg",
+    "lat": 52.5107494,
+    "lon": 13.2896421
+  },
+  {
+    "id": 2141778348,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Bouchéstraße 12",
+    "district": "",
+    "lat": 52.4921598,
+    "lon": 13.4510857
+  },
+  {
+    "id": 2705016631,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Albrechtstraße 33",
+    "district": "Steglitz",
+    "lat": 52.452429,
+    "lon": 13.3322395
+  },
+  {
+    "id": 3401898908,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Viktoriastraße 10-18",
+    "district": "",
+    "lat": 52.4546467,
+    "lon": 13.3820803
+  },
+  {
+    "id": 5891717533,
+    "name": "LPG BioMarkt",
+    "brand": "LPG BioMarkt",
+    "address": "Yorckstraße 24",
+    "district": "Kreuzberg",
+    "lat": 52.4925371,
+    "lon": 13.3787764
+  },
+  {
+    "id": 7821177801,
+    "name": "LPG Naturkost",
+    "brand": "LPG Naturkost",
+    "address": "Wilhelmsaue 135",
+    "district": "Wilmersdorf",
+    "lat": 52.4849695,
+    "lon": 13.3294041
+  },
+  {
+    "id": 10928623111,
+    "name": "Makka",
+    "brand": "Makka",
+    "address": "",
+    "district": "",
+    "lat": 52.5301528,
+    "lon": 13.3455428
+  },
+  {
+    "id": 2270842497,
+    "name": "Mały Książę",
+    "brand": "Mały Książę",
+    "address": "Lilienthalstraße 6",
+    "district": "Kreuzberg",
+    "lat": 52.4880408,
+    "lon": 13.4075593
+  },
+  {
+    "id": 5308698871,
+    "name": "Maya d‘Afrique",
+    "brand": "Maya d‘Afrique",
+    "address": "Frankfurter Allee 267",
+    "district": "Rummelsburg",
+    "lat": 52.5111799,
+    "lon": 13.5026267
+  },
+  {
+    "id": 924072123,
+    "name": "Mein Markt",
+    "brand": "Nahkauf",
+    "address": "Karl-Marx-Allee 116",
+    "district": "Friedrichshain",
+    "lat": 52.516203,
+    "lon": 13.4469923
+  },
+  {
+    "id": 1224795204,
+    "name": "Mini Spar",
+    "brand": "Mini Spar",
+    "address": "",
+    "district": "",
+    "lat": 52.4937046,
+    "lon": 13.4371652
+  },
+  {
+    "id": 1544191098,
+    "name": "miniladen",
+    "brand": "miniladen",
+    "address": "",
+    "district": "",
+    "lat": 52.5488448,
+    "lon": 13.4092108
+  },
+  {
+    "id": 3779407694,
+    "name": "Mitte Meer",
+    "brand": "Mitte Meer",
+    "address": "Kolonnenstraße 30 b",
+    "district": "Schöneberg",
+    "lat": 52.484833,
+    "lon": 13.3693011
+  },
+  {
+    "id": 5077058193,
+    "name": "Mitte Meer",
+    "brand": "Mitte Meer",
+    "address": "Prenzlauer Promenade 192",
+    "district": "Pankow",
+    "lat": 52.5517659,
+    "lon": 13.429981
+  },
+  {
+    "id": 6418619229,
+    "name": "Mitte Meer",
+    "brand": "Mitte Meer",
+    "address": "Kantstraße 42",
+    "district": "Charlottenburg",
+    "lat": 52.5065384,
+    "lon": 13.3127012
+  },
+  {
+    "id": 4454932107,
+    "name": "Mix Markt",
+    "brand": "Mix Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.5326682,
+    "lon": 13.1554903
+  },
+  {
+    "id": 4524893340,
+    "name": "Nadaf",
+    "brand": "Nadaf",
+    "address": "",
+    "district": "",
+    "lat": 52.4747344,
+    "lon": 13.4398121
+  },
+  {
+    "id": 534878184,
+    "name": "Nah & Frisch",
+    "brand": "Nah & Frisch",
+    "address": "Hohenzollerndamm 50a",
+    "district": "Schmargendorf",
+    "lat": 52.4876067,
+    "lon": 13.2990759
+  },
+  {
+    "id": 79428988,
+    "name": "nah & gut",
+    "brand": "EDEKA",
+    "address": "Scharnweberstraße 100",
+    "district": "",
+    "lat": 52.5664033,
+    "lon": 13.3169308
+  },
+  {
+    "id": 101003688,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Güntzelstraße 40",
+    "district": "",
+    "lat": 52.4913971,
+    "lon": 13.3228827
+  },
+  {
+    "id": 277837190,
+    "name": "nah und gut",
+    "brand": "EDEKA",
+    "address": "Sonnenallee 330",
+    "district": "Neukölln",
+    "lat": 52.4639513,
+    "lon": 13.4731548
+  },
+  {
+    "id": 418632161,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5426683,
+    "lon": 13.4183617
+  },
+  {
+    "id": 715911673,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Leonhardtstraße 22",
+    "district": "Charlottenburg",
+    "lat": 52.5049147,
+    "lon": 13.2974596
+  },
+  {
+    "id": 728689944,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Geisbergstraße 22",
+    "district": "Wilmersdorf",
+    "lat": 52.4979503,
+    "lon": 13.3350954
+  },
+  {
+    "id": 1039403106,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Kreuznacher Straße 68",
+    "district": "Wilmersdorf",
+    "lat": 52.4673513,
+    "lon": 13.3109506
+  },
+  {
+    "id": 1394709850,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Rohrdamm",
+    "district": "Siemensstadt",
+    "lat": 52.5414602,
+    "lon": 13.2618045
+  },
+  {
+    "id": 1873679231,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Urbanstraße 183",
+    "district": "Kreuzberg",
+    "lat": 52.4945279,
+    "lon": 13.4005487
+  },
+  {
+    "id": 2183538439,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Düsseldorfer Straße 74",
+    "district": "Wilmersdorf",
+    "lat": 52.4950862,
+    "lon": 13.3235476
+  },
+  {
+    "id": 9320920749,
+    "name": "nah und gut",
+    "brand": "Edeka",
+    "address": "Eichhorster Weg 25",
+    "district": "",
+    "lat": 52.5987496,
+    "lon": 13.3429357
+  },
+  {
+    "id": 718143847,
+    "name": "Nah und gut",
+    "brand": "Edeka",
+    "address": "",
+    "district": "",
+    "lat": 52.5062441,
+    "lon": 13.2840108
+  },
+  {
+    "id": 1149666418,
+    "name": "Nah und Gut",
+    "brand": "EDEKA",
+    "address": "Werner-Voß-Damm 37",
+    "district": "Tempelhof",
+    "lat": 52.4743292,
+    "lon": 13.3716214
+  },
+  {
+    "id": 12549891646,
+    "name": "Nah und Gut",
+    "brand": "Edeka",
+    "address": "Breisgauer Straße 20",
+    "district": "",
+    "lat": 52.436621,
+    "lon": 13.215871
+  },
+  {
+    "id": 452002193,
+    "name": "nah und gut Brabanski",
+    "brand": "Edeka",
+    "address": "Alt-Tempelhof 31-33",
+    "district": "Tempelhof",
+    "lat": 52.4653103,
+    "lon": 13.3831859
+  },
+  {
+    "id": 11609888307,
+    "name": "nah und gut Janoschek",
+    "brand": "EDEKA",
+    "address": "Waldsassener Straße 42A",
+    "district": "Marienfelde",
+    "lat": 52.408488,
+    "lon": 13.3500697
+  },
+  {
+    "id": 4244204867,
+    "name": "nahcity",
+    "brand": "nahcity",
+    "address": "Rosenthaler Straße 11",
+    "district": "",
+    "lat": 52.5278089,
+    "lon": 13.4026632
+  },
+  {
+    "id": 1383599532,
+    "name": "nahcity Duong",
+    "brand": "Nahkauf",
+    "address": "Greifswalder Straße 119",
+    "district": "Prenzlauer Berg",
+    "lat": 52.536064,
+    "lon": 13.4324034
+  },
+  {
+    "id": 79438509,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Meller Bogen 2",
+    "district": "",
+    "lat": 52.5704861,
+    "lon": 13.321144
+  },
+  {
+    "id": 298811748,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Drakestraße 33a",
+    "district": "Lichterfelde",
+    "lat": 52.4433223,
+    "lon": 13.2968177
+  },
+  {
+    "id": 668246091,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Ladenstraße 38-49",
+    "district": "Zehlendorf",
+    "lat": 52.449943,
+    "lon": 13.2528091
+  },
+  {
+    "id": 672147735,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Badensche Straße 56",
+    "district": "",
+    "lat": 52.4854706,
+    "lon": 13.3408169
+  },
+  {
+    "id": 699532383,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.4038231,
+    "lon": 13.5064629
+  },
+  {
+    "id": 705513419,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Fritschestraße 45-46",
+    "district": "",
+    "lat": 52.5075213,
+    "lon": 13.3002506
+  },
+  {
+    "id": 802000083,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Celsiusstraße 66",
+    "district": "Lichterfelde",
+    "lat": 52.4115726,
+    "lon": 13.3121233
+  },
+  {
+    "id": 1070129764,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Dessauerstraße 64",
+    "district": "Lankwitz",
+    "lat": 52.4292607,
+    "lon": 13.346614
+  },
+  {
+    "id": 1402023314,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.4979408,
+    "lon": 13.4438854
+  },
+  {
+    "id": 1720474146,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.5768477,
+    "lon": 13.2781392
+  },
+  {
+    "id": 1734279076,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.4466275,
+    "lon": 13.371653
+  },
+  {
+    "id": 1819928545,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Görresstraße 3",
+    "district": "Friedenau",
+    "lat": 52.4734406,
+    "lon": 13.3275613
+  },
+  {
+    "id": 1946125618,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Hirtsieferzeile 42-43",
+    "district": "Gropiusstadt",
+    "lat": 52.4311649,
+    "lon": 13.4696242
+  },
+  {
+    "id": 3016943176,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Liebenowzeile 29",
+    "district": "",
+    "lat": 52.4493498,
+    "lon": 13.349913
+  },
+  {
+    "id": 3900293181,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.549407,
+    "lon": 13.1559808
+  },
+  {
+    "id": 4536095475,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.5619592,
+    "lon": 13.4676799
+  },
+  {
+    "id": 5907281654,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.6096448,
+    "lon": 13.3353663
+  },
+  {
+    "id": 6113203122,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.6053919,
+    "lon": 13.3571415
+  },
+  {
+    "id": 6494495186,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "",
+    "district": "",
+    "lat": 52.4485502,
+    "lon": 13.3254362
+  },
+  {
+    "id": 9776537534,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Gensinger Straße 83",
+    "district": "",
+    "lat": 52.5109897,
+    "lon": 13.535686
+  },
+  {
+    "id": 10979699637,
+    "name": "Nahkauf",
+    "brand": "Nahkauf",
+    "address": "Kiehlufer 75-79",
+    "district": "",
+    "lat": 52.4838082,
+    "lon": 13.4478902
+  },
+  {
+    "id": 1557191076,
+    "name": "Natur Pur",
+    "brand": "Natur Pur",
+    "address": "Frankfurter Allee 231",
+    "district": "Lichtenberg",
+    "lat": 52.5122262,
+    "lon": 13.495272
+  },
+  {
+    "id": 1282080435,
+    "name": "Nazar Market",
+    "brand": "Nazar Market",
+    "address": "Wilmersdorfer Straße 132",
+    "district": "Charlottenburg",
+    "lat": 52.510727,
+    "lon": 13.3056473
+  },
+  {
+    "id": 3712221852,
+    "name": "Nazar Supermarkt",
+    "brand": "Nazar Supermarkt",
+    "address": "Potsdamer Straße 111",
+    "district": "Schöneberg",
+    "lat": 52.4994583,
+    "lon": 13.3630907
+  },
+  {
+    "id": 253256553,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.5515059,
+    "lon": 13.4550894
+  },
+  {
+    "id": 410749696,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.6173677,
+    "lon": 13.4863442
+  },
+  {
+    "id": 438385035,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Mecklenburgische Straße 27",
+    "district": "Wilmersdorf",
+    "lat": 52.4787864,
+    "lon": 13.3084451
+  },
+  {
+    "id": 453394863,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.6367349,
+    "lon": 13.4911121
+  },
+  {
+    "id": 550113674,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.5565272,
+    "lon": 13.4241319
+  },
+  {
+    "id": 587835276,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.5397947,
+    "lon": 13.2963562
+  },
+  {
+    "id": 602528045,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.6076495,
+    "lon": 13.43059
+  },
+  {
+    "id": 653287041,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Greifswalder Straße 90",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5433967,
+    "lon": 13.4428789
+  },
+  {
+    "id": 672732987,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.4910381,
+    "lon": 13.3170755
+  },
+  {
+    "id": 941363118,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Sophie-Charlotten-Straße 25",
+    "district": "Charlottenburg",
+    "lat": 52.5166668,
+    "lon": 13.2859135
+  },
+  {
+    "id": 1362016421,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Wittenberger Straße 76-80",
+    "district": "",
+    "lat": 52.5651696,
+    "lon": 13.5710175
+  },
+  {
+    "id": 1379836611,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.5664899,
+    "lon": 13.3461341
+  },
+  {
+    "id": 2398339919,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Belforter Straße 20",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5321413,
+    "lon": 13.4195614
+  },
+  {
+    "id": 2866172985,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Ribnitzer Straße 24",
+    "district": "",
+    "lat": 52.5702733,
+    "lon": 13.4959871
+  },
+  {
+    "id": 3644425794,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "",
+    "district": "",
+    "lat": 52.5124355,
+    "lon": 13.4330222
+  },
+  {
+    "id": 4868088443,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Mehrower Allee 20",
+    "district": "",
+    "lat": 52.5556604,
+    "lon": 13.5588338
+  },
+  {
+    "id": 5618092635,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Erich-Weinert-Straße 95",
+    "district": "",
+    "lat": 52.5478568,
+    "lon": 13.4302622
+  },
+  {
+    "id": 12041286535,
+    "name": "Netto",
+    "brand": "Netto",
+    "address": "Elfriede-Tygör-Straße 5",
+    "district": "Friedrichsfelde",
+    "lat": 52.5040888,
+    "lon": 13.519633
+  },
+  {
+    "id": 693892008,
+    "name": "Netto City",
+    "brand": "Netto City",
+    "address": "Albrecht-Achilles-Straße 52-53",
+    "district": "Wilmersdorf",
+    "lat": 52.4945436,
+    "lon": 13.3035449
+  },
+  {
+    "id": 1773431934,
+    "name": "Netto City",
+    "brand": "Netto City",
+    "address": "Kurfürstenstraße 75",
+    "district": "Tiergarten",
+    "lat": 52.503656,
+    "lon": 13.348668
+  },
+  {
+    "id": 1906549344,
+    "name": "Netto City",
+    "brand": "Netto City",
+    "address": "Pariser Straße 41",
+    "district": "Wilmersdorf",
+    "lat": 52.4981147,
+    "lon": 13.318263
+  },
+  {
+    "id": 58489979,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Alte Jakobstraße 83",
+    "district": "Mitte",
+    "lat": 52.5098189,
+    "lon": 13.4073729
+  },
+  {
+    "id": 175685784,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5958262,
+    "lon": 13.3335139
+  },
+  {
+    "id": 249675570,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5439135,
+    "lon": 13.5486135
+  },
+  {
+    "id": 273759099,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.4630725,
+    "lon": 13.3388468
+  },
+  {
+    "id": 297477471,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Kochhannstraße 34",
+    "district": "Friedrichshain",
+    "lat": 52.5239186,
+    "lon": 13.4467143
+  },
+  {
+    "id": 309150372,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Kaiser-Wilhelm-Straße 11",
+    "district": "Lankwitz",
+    "lat": 52.4300567,
+    "lon": 13.3349701
+  },
+  {
+    "id": 318349845,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Torstraße 33",
+    "district": "",
+    "lat": 52.5282208,
+    "lon": 13.4127819
+  },
+  {
+    "id": 392352484,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Sterndamm 33",
+    "district": "Johannisthal",
+    "lat": 52.4512743,
+    "lon": 13.5087505
+  },
+  {
+    "id": 417360249,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Storkower Straße 128b",
+    "district": "Prenzlauer Berg",
+    "lat": 52.533316,
+    "lon": 13.4522613
+  },
+  {
+    "id": 437190622,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Rathausstraße 5",
+    "district": "Mitte",
+    "lat": 52.5189624,
+    "lon": 13.409903
+  },
+  {
+    "id": 442392122,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Mariendorfer Damm 19",
+    "district": "Mariendorf",
+    "lat": 52.4510775,
+    "lon": 13.3852947
+  },
+  {
+    "id": 453394268,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.6369381,
+    "lon": 13.4914504
+  },
+  {
+    "id": 465318633,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Sonnenallee 57",
+    "district": "",
+    "lat": 52.4850931,
+    "lon": 13.4337327
+  },
+  {
+    "id": 513956597,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Frankfurter Allee 57-59",
+    "district": "Friedrichshain",
+    "lat": 52.5148066,
+    "lon": 13.4658757
+  },
+  {
+    "id": 537588089,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5374678,
+    "lon": 13.2864647
+  },
+  {
+    "id": 537753668,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Lauterstraße 17",
+    "district": "Friedenau",
+    "lat": 52.4716365,
+    "lon": 13.3350372
+  },
+  {
+    "id": 583760234,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Rothenbachstraße 2",
+    "district": "Heinersdorf",
+    "lat": 52.5693143,
+    "lon": 13.4372904
+  },
+  {
+    "id": 602528055,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Triftstraße 20",
+    "district": "Französisch Buchholz",
+    "lat": 52.6106315,
+    "lon": 13.4313872
+  },
+  {
+    "id": 663879954,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Hubertusdamm 64-65",
+    "district": "Karow",
+    "lat": 52.615282,
+    "lon": 13.470382
+  },
+  {
+    "id": 677581923,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Kaulsdorfer Straße 140",
+    "district": "Köpenick",
+    "lat": 52.4698833,
+    "lon": 13.5723599
+  },
+  {
+    "id": 678968266,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Oudenarder Straße 14",
+    "district": "Wedding",
+    "lat": 52.5536061,
+    "lon": 13.3607274
+  },
+  {
+    "id": 721617843,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Prenzlauer Promenade",
+    "district": "Heinersdorf",
+    "lat": 52.5604742,
+    "lon": 13.4293916
+  },
+  {
+    "id": 808391004,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Randowstraße 3",
+    "district": "",
+    "lat": 52.5666263,
+    "lon": 13.5274422
+  },
+  {
+    "id": 901013001,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5909543,
+    "lon": 13.4453656
+  },
+  {
+    "id": 958150532,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Urbanstraße 122",
+    "district": "Kreuzberg",
+    "lat": 52.491318,
+    "lon": 13.4177006
+  },
+  {
+    "id": 1036581040,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.4954436,
+    "lon": 13.4199628
+  },
+  {
+    "id": 1039633309,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5344474,
+    "lon": 13.4879509
+  },
+  {
+    "id": 1120057650,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Schönhauser Allee 78",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5498396,
+    "lon": 13.414376
+  },
+  {
+    "id": 1713393011,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Alemannenstraße 40",
+    "district": "",
+    "lat": 52.4296195,
+    "lon": 13.1930625
+  },
+  {
+    "id": 1754558319,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Hermannstraße 158a",
+    "district": "Neukölln",
+    "lat": 52.4674769,
+    "lon": 13.4331094
+  },
+  {
+    "id": 1869640501,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Egon-Erwin-Kisch-Straße 90",
+    "district": "",
+    "lat": 52.5682048,
+    "lon": 13.5110287
+  },
+  {
+    "id": 2495554583,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Bergmannstraße 5",
+    "district": "",
+    "lat": 52.4896657,
+    "lon": 13.3889289
+  },
+  {
+    "id": 2676934170,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Rabensteiner Straße 36",
+    "district": "Marzahn",
+    "lat": 52.5650977,
+    "lon": 13.5771241
+  },
+  {
+    "id": 2975527957,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Treskowallee 115",
+    "district": "",
+    "lat": 52.4803165,
+    "lon": 13.5255093
+  },
+  {
+    "id": 3039142020,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Am Treptower Park 40",
+    "district": "Plänterwald",
+    "lat": 52.4855611,
+    "lon": 13.4659156
+  },
+  {
+    "id": 3486395920,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Bruno-Taut-Straße 8",
+    "district": "Bohnsdorf",
+    "lat": 52.4127316,
+    "lon": 13.5692808
+  },
+  {
+    "id": 3666631698,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Martin-Luther-Straße 24",
+    "district": "Schöneberg",
+    "lat": 52.496021,
+    "lon": 13.3458185
+  },
+  {
+    "id": 4179406780,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Alex-Wedding-Straße 3",
+    "district": "Mitte",
+    "lat": 52.5250782,
+    "lon": 13.4153068
+  },
+  {
+    "id": 4547088787,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Wilmersdorfer Straße 46",
+    "district": "Charlottenburg",
+    "lat": 52.5084018,
+    "lon": 13.3055222
+  },
+  {
+    "id": 4770967056,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5335737,
+    "lon": 13.1978219
+  },
+  {
+    "id": 4873598277,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Siemensdamm 43-44",
+    "district": "",
+    "lat": 52.536561,
+    "lon": 13.2754036
+  },
+  {
+    "id": 4934281654,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "",
+    "district": "",
+    "lat": 52.5127262,
+    "lon": 13.1962538
+  },
+  {
+    "id": 5431718439,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Corinthstraße 36",
+    "district": "Friedrichshain",
+    "lat": 52.5000253,
+    "lon": 13.4609567
+  },
+  {
+    "id": 5943512628,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Gotlandstraße 6",
+    "district": "",
+    "lat": 52.5547595,
+    "lon": 13.4113529
+  },
+  {
+    "id": 5991258686,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Weißenseer Weg 37",
+    "district": "",
+    "lat": 52.5355802,
+    "lon": 13.4746475
+  },
+  {
+    "id": 6148457828,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Hermannstraße 214",
+    "district": "",
+    "lat": 52.4790268,
+    "lon": 13.4274455
+  },
+  {
+    "id": 6754031358,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Genthiner Straße 42",
+    "district": "Tiergarten",
+    "lat": 52.5021129,
+    "lon": 13.3584107
+  },
+  {
+    "id": 10562009263,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Alt-Moabit 86 A",
+    "district": "",
+    "lat": 52.5253649,
+    "lon": 13.3418717
+  },
+  {
+    "id": 11063735898,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Rudower Straße 84-88",
+    "district": "",
+    "lat": 52.4366539,
+    "lon": 13.4631486
+  },
+  {
+    "id": 11294056435,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Dammweg 56",
+    "district": "Plänterwald",
+    "lat": 52.4792393,
+    "lon": 13.481201
+  },
+  {
+    "id": 11329887047,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Neue Grottkauer Straße 3",
+    "district": "Hellersdorf",
+    "lat": 52.5297046,
+    "lon": 13.5921419
+  },
+  {
+    "id": 12613599882,
+    "name": "Netto Marken-Discount",
+    "brand": "Netto Marken-Discount",
+    "address": "Otto-Schmirgal-Straße 3",
+    "district": "",
+    "lat": 52.4973075,
+    "lon": 13.5205945
+  },
+  {
+    "id": 10159681696,
+    "name": "NHI Global Food Market",
+    "brand": "NHI Global Food Market",
+    "address": "",
+    "district": "",
+    "lat": 52.5330253,
+    "lon": 13.3674405
+  },
+  {
+    "id": 276191847,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "Heinrich-Grüber-Straße 86",
+    "district": "Kaulsdorf",
+    "lat": 52.5194368,
+    "lon": 13.5973616
+  },
+  {
+    "id": 448591011,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "Tiroler Straße 28",
+    "district": "Pankow",
+    "lat": 52.5591073,
+    "lon": 13.4062472
+  },
+  {
+    "id": 610199981,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "John-Locke-Straße",
+    "district": "Lichtenrade",
+    "lat": 52.392013,
+    "lon": 13.4028107
+  },
+  {
+    "id": 2611034642,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "Anton-Saefkow-Platz 8",
+    "district": "",
+    "lat": 52.5284516,
+    "lon": 13.4715787
+  },
+  {
+    "id": 2821719682,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "Paradiesstraße 212",
+    "district": "Bohnsdorf",
+    "lat": 52.4040318,
+    "lon": 13.5597507
+  },
+  {
+    "id": 3166307701,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "Bremer Straße 9",
+    "district": "Moabit",
+    "lat": 52.5276005,
+    "lon": 13.3388208
+  },
+  {
+    "id": 3873919795,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "Wassermannstraße 97",
+    "district": "Adlershof",
+    "lat": 52.4377511,
+    "lon": 13.5547611
+  },
+  {
+    "id": 4034592725,
+    "name": "Norma",
+    "brand": "Norma",
+    "address": "Skalitzer Straße 141",
+    "district": "Kreuzberg",
+    "lat": 52.499004,
+    "lon": 13.4163673
+  },
+  {
+    "id": 151015050,
+    "name": "NORMA",
+    "brand": "NORMA",
+    "address": "",
+    "district": "",
+    "lat": 52.5265407,
+    "lon": 13.5403083
+  },
+  {
+    "id": 445821398,
+    "name": "NORMA",
+    "brand": "NORMA",
+    "address": "",
+    "district": "",
+    "lat": 52.4425881,
+    "lon": 13.4319561
+  },
+  {
+    "id": 861870104,
+    "name": "NORMA",
+    "brand": "NORMA",
+    "address": "Quedlinburger Straße 31",
+    "district": "Hellersdorf",
+    "lat": 52.540119,
+    "lon": 13.6100206
+  },
+  {
+    "id": 8459440164,
+    "name": "Nova",
+    "brand": "Nova",
+    "address": "Landsberger Allee 171",
+    "district": "",
+    "lat": 52.5319562,
+    "lon": 13.46888
+  },
+  {
+    "id": 3021118316,
+    "name": "NP",
+    "brand": "NP",
+    "address": "Kastanienallee 8",
+    "district": "Hellersdorf",
+    "lat": 52.5367725,
+    "lon": 13.6017513
+  },
+  {
+    "id": 3216719429,
+    "name": "Örs Market",
+    "brand": "Örs Market",
+    "address": "Kochstraße 14",
+    "district": "",
+    "lat": 52.5065583,
+    "lon": 13.3896566
+  },
+  {
+    "id": 253999816,
+    "name": "Öz-Gida",
+    "brand": "Öz-Gida",
+    "address": "Hauptstraße 16",
+    "district": "Schöneberg",
+    "lat": 52.4873144,
+    "lon": 13.3570728
+  },
+  {
+    "id": 8626109342,
+    "name": "Özen Kardeşler",
+    "brand": "Özen Kardeşler",
+    "address": "",
+    "district": "",
+    "lat": 52.5156512,
+    "lon": 13.2938433
+  },
+  {
+    "id": 6535295939,
+    "name": "Özgür Market",
+    "brand": "Özgür Market",
+    "address": "Nonnendammallee 89",
+    "district": "Siemensstadt",
+    "lat": 52.5368955,
+    "lon": 13.2711846
+  },
+  {
+    "id": 272247519,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "Britzer Damm 73",
+    "district": "Britz",
+    "lat": 52.4560576,
+    "lon": 13.4374685
+  },
+  {
+    "id": 300818499,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "Grunewaldstraße 36-37",
+    "district": "Schöneberg",
+    "lat": 52.4893173,
+    "lon": 13.3458969
+  },
+  {
+    "id": 1618669788,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "Steglitzer Damm 20",
+    "district": "Steglitz",
+    "lat": 52.4507291,
+    "lon": 13.3393904
+  },
+  {
+    "id": 1835293283,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.4476974,
+    "lon": 13.3054039
+  },
+  {
+    "id": 2038240136,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "Hellersdorfer Straße 77-83",
+    "district": "Hellersdorf",
+    "lat": 52.5213904,
+    "lon": 13.5872079
+  },
+  {
+    "id": 3488849733,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "Winterfeldtstraße 74",
+    "district": "Schöneberg",
+    "lat": 52.4963863,
+    "lon": 13.3478324
+  },
+  {
+    "id": 12025710685,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "Askanierring 40-41",
+    "district": "",
+    "lat": 52.5479194,
+    "lon": 13.1943753
+  },
+  {
+    "id": 13070345701,
+    "name": "Penny",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.4698339,
+    "lon": 13.4411789
+  },
+  {
+    "id": 251595302,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Pankower Allee 47-49",
+    "district": "Reinickendorf",
+    "lat": 52.565038,
+    "lon": 13.3706441
+  },
+  {
+    "id": 281426281,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Wilhelminenhofstraße 89A",
+    "district": "",
+    "lat": 52.4622262,
+    "lon": 13.5129345
+  },
+  {
+    "id": 371151371,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Kottbusser Damm 66",
+    "district": "Neukölln",
+    "lat": 52.4888458,
+    "lon": 13.4249997
+  },
+  {
+    "id": 390384562,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Heerstraße 378-382",
+    "district": "Wilhelmstadt",
+    "lat": 52.518976,
+    "lon": 13.1707459
+  },
+  {
+    "id": 410339501,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.4985137,
+    "lon": 13.3035063
+  },
+  {
+    "id": 410506348,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Oberweißbacher Straße 2-4",
+    "district": "",
+    "lat": 52.5568679,
+    "lon": 13.5715607
+  },
+  {
+    "id": 428142582,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.5330951,
+    "lon": 13.3454332
+  },
+  {
+    "id": 440805106,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Turmstraße",
+    "district": "",
+    "lat": 52.5267978,
+    "lon": 13.3317124
+  },
+  {
+    "id": 469876091,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Wilmersdorfer Straße 32-33",
+    "district": "Charlottenburg",
+    "lat": 52.5125087,
+    "lon": 13.3048648
+  },
+  {
+    "id": 473611934,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Prinzenallee 55-56",
+    "district": "Gesundbrunnen",
+    "lat": 52.5585627,
+    "lon": 13.3858039
+  },
+  {
+    "id": 544381902,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.480678,
+    "lon": 13.4265489
+  },
+  {
+    "id": 618269382,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Seddiner Straße 8",
+    "district": "",
+    "lat": 52.5134646,
+    "lon": 13.5222835
+  },
+  {
+    "id": 681558877,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.517743,
+    "lon": 13.2926291
+  },
+  {
+    "id": 747081738,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Brunsbütteler Damm 196",
+    "district": "Spandau",
+    "lat": 52.5340022,
+    "lon": 13.1677315
+  },
+  {
+    "id": 808390952,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Welsestraße 56-58",
+    "district": "",
+    "lat": 52.5647175,
+    "lon": 13.5236193
+  },
+  {
+    "id": 819757401,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Volkradstraße 32",
+    "district": "",
+    "lat": 52.4996502,
+    "lon": 13.5077655
+  },
+  {
+    "id": 832835260,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Reinickendorfer Straße 83",
+    "district": "Wedding",
+    "lat": 52.5497058,
+    "lon": 13.368043
+  },
+  {
+    "id": 868336312,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Grellstraße 75",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5456563,
+    "lon": 13.4297494
+  },
+  {
+    "id": 1120057646,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.5813965,
+    "lon": 13.4017946
+  },
+  {
+    "id": 1234547262,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Müllerstraße 40",
+    "district": "Wedding",
+    "lat": 52.5500887,
+    "lon": 13.3533095
+  },
+  {
+    "id": 1446214034,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.4951473,
+    "lon": 13.4284148
+  },
+  {
+    "id": 1869640502,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Rostocker Straße 1",
+    "district": "",
+    "lat": 52.5748726,
+    "lon": 13.5086192
+  },
+  {
+    "id": 2026168141,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Brunnenstraße 75",
+    "district": "Gesundbrunnen",
+    "lat": 52.5423742,
+    "lon": 13.3932909
+  },
+  {
+    "id": 2835612698,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Dominicusstraße 37",
+    "district": "Schöneberg",
+    "lat": 52.4811176,
+    "lon": 13.350501
+  },
+  {
+    "id": 6079651843,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Boxhagener Straße 80",
+    "district": "",
+    "lat": 52.5078008,
+    "lon": 13.4676619
+  },
+  {
+    "id": 6402635126,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Eisenhutweg 93",
+    "district": "",
+    "lat": 52.4298223,
+    "lon": 13.5125861
+  },
+  {
+    "id": 9275773996,
+    "name": "PENNY",
+    "brand": "Penny",
+    "address": "Scheibenbergstraße 20",
+    "district": "Marzahn",
+    "lat": 52.5390529,
+    "lon": 13.5566647
+  },
+  {
+    "id": 9645174963,
+    "name": "Penny am Lichtenrader Tor",
+    "brand": "Penny",
+    "address": "",
+    "district": "",
+    "lat": 52.4040946,
+    "lon": 13.4057354
+  },
+  {
+    "id": 11255814627,
+    "name": "PENNY Dardanellenweg",
+    "brand": "Penny",
+    "address": "Dardanellenweg 50",
+    "district": "Mariendorf",
+    "lat": 52.4446581,
+    "lon": 13.4078396
+  },
+  {
+    "id": 715911599,
+    "name": "Penny Leibnizstraße",
+    "brand": "Penny",
+    "address": "Leibnizstraße 23",
+    "district": "Charlottenburg",
+    "lat": 52.5095171,
+    "lon": 13.3146146
+  },
+  {
+    "id": 4234162693,
+    "name": "Penny Underground",
+    "brand": "Penny",
+    "address": "Müllerstraße 153",
+    "district": "",
+    "lat": 52.5460014,
+    "lon": 13.3593645
+  },
+  {
+    "id": 1207355255,
+    "name": "Phung",
+    "brand": "Phung",
+    "address": "",
+    "district": "",
+    "lat": 52.4913551,
+    "lon": 13.3494294
+  },
+  {
+    "id": 3506086153,
+    "name": "Punjab Foods Afro Shop",
+    "brand": "Punjab Foods Afro Shop",
+    "address": "Tromsöer Straße 6",
+    "district": "",
+    "lat": 52.5582594,
+    "lon": 13.3742829
+  },
+  {
+    "id": 427043045,
+    "name": "Punjab Supermarkt",
+    "brand": "Punjab Supermarkt",
+    "address": "Drontheimer Straße 32-32a",
+    "district": "Gesundbrunnen",
+    "lat": 52.5586866,
+    "lon": 13.3749078
+  },
+  {
+    "id": 6382773513,
+    "name": "R-Markt",
+    "brand": "R-Markt",
+    "address": "Warnitzer Straße 20",
+    "district": "Neu-Hohenschönhausen",
+    "lat": 52.5672818,
+    "lon": 13.5176126
+  },
+  {
+    "id": 1306177277,
+    "name": "Radhaa",
+    "brand": "Radhaa",
+    "address": "",
+    "district": "",
+    "lat": 52.4872439,
+    "lon": 13.427558
+  },
+  {
+    "id": 4809139807,
+    "name": "Reformhaus Bagheri",
+    "brand": "Reformhaus Bagheri",
+    "address": "Wilmersdorfer Straße 157",
+    "district": "",
+    "lat": 52.5158399,
+    "lon": 13.3048493
+  },
+  {
+    "id": 5010062816,
+    "name": "Reformhaus Demski",
+    "brand": "Reformhaus Demski",
+    "address": "Ludolfingerplatz 1a",
+    "district": "Frohnau",
+    "lat": 52.6329452,
+    "lon": 13.2893671
+  },
+  {
+    "id": 395053992,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "Sakrower Landstraße 1 A",
+    "district": "",
+    "lat": 52.4528593,
+    "lon": 13.1430094
+  },
+  {
+    "id": 733864526,
+    "name": "Rewe",
+    "brand": "REWE",
+    "address": "Oberfeldstraße 138",
+    "district": "Biesdorf",
+    "lat": 52.5248576,
+    "lon": 13.5581174
+  },
+  {
+    "id": 2323707525,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "Hubertusdamm 56",
+    "district": "Karow",
+    "lat": 52.6164939,
+    "lon": 13.4716787
+  },
+  {
+    "id": 3212168336,
+    "name": "Rewe",
+    "brand": "REWE",
+    "address": "Rustweg 1",
+    "district": "Hakenfelde",
+    "lat": 52.575897,
+    "lon": 13.2133845
+  },
+  {
+    "id": 3772659942,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "Prerower Platz 1",
+    "district": "",
+    "lat": 52.5648536,
+    "lon": 13.5067596
+  },
+  {
+    "id": 4778473121,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "Pasteurstraße 19",
+    "district": "",
+    "lat": 52.5332863,
+    "lon": 13.43436
+  },
+  {
+    "id": 10979158423,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "Kurfürstendamm 146-147",
+    "district": "",
+    "lat": 52.4983384,
+    "lon": 13.2997798
+  },
+  {
+    "id": 12299947274,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "Hallesches Ufer 40",
+    "district": "",
+    "lat": 52.4998312,
+    "lon": 13.3845722
+  },
+  {
+    "id": 13109351571,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.3792948,
+    "lon": 13.6433837
+  },
+  {
+    "id": 13336072227,
+    "name": "Rewe",
+    "brand": "Rewe",
+    "address": "Turmstraße 48",
+    "district": "",
+    "lat": 52.5271498,
+    "lon": 13.3330417
+  },
+  {
+    "id": 261743904,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Turmstraße 60",
+    "district": "",
+    "lat": 52.5276119,
+    "lon": 13.3291604
+  },
+  {
+    "id": 264620848,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Oberweißbacher Straße 2-4",
+    "district": "",
+    "lat": 52.5565629,
+    "lon": 13.5714829
+  },
+  {
+    "id": 273765898,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Sömmeringstraße 24-26",
+    "district": "",
+    "lat": 52.523423,
+    "lon": 13.3065606
+  },
+  {
+    "id": 293130845,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "",
+    "district": "",
+    "lat": 52.4262609,
+    "lon": 13.3024814
+  },
+  {
+    "id": 293137288,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.6183865,
+    "lon": 13.4863459
+  },
+  {
+    "id": 304367382,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Heerstraße 560",
+    "district": "Staaken",
+    "lat": 52.5250164,
+    "lon": 13.1414723
+  },
+  {
+    "id": 304371509,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Havemannstraße 12a",
+    "district": "Marzahn",
+    "lat": 52.5687154,
+    "lon": 13.5684842
+  },
+  {
+    "id": 308019560,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Alfred-Kowalke-Straße 2",
+    "district": "",
+    "lat": 52.5048235,
+    "lon": 13.5150175
+  },
+  {
+    "id": 318349843,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Schönhauser Allee 10-11",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5305826,
+    "lon": 13.4121544
+  },
+  {
+    "id": 319546170,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Siemensdamm 43-44",
+    "district": "Siemensstadt",
+    "lat": 52.5363802,
+    "lon": 13.2746944
+  },
+  {
+    "id": 347303768,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Lankwitzer Straße 19",
+    "district": "Lichterfelde",
+    "lat": 52.4294636,
+    "lon": 13.3302464
+  },
+  {
+    "id": 348000444,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Invalidenstraße 158",
+    "district": "",
+    "lat": 52.5319807,
+    "lon": 13.3970838
+  },
+  {
+    "id": 358183697,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Schönwalder Straße 32",
+    "district": "Spandau",
+    "lat": 52.5488799,
+    "lon": 13.2010419
+  },
+  {
+    "id": 359096354,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Clayallee 336",
+    "district": "Zehlendorf",
+    "lat": 52.437065,
+    "lon": 13.2622014
+  },
+  {
+    "id": 390502682,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "",
+    "district": "Kreuzberg",
+    "lat": 52.4984121,
+    "lon": 13.4420092
+  },
+  {
+    "id": 392683176,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Kiefholzstraße 50",
+    "district": "",
+    "lat": 52.4855808,
+    "lon": 13.4568606
+  },
+  {
+    "id": 412196333,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Bruno-Taut-Straße 1",
+    "district": "Bohnsdorf",
+    "lat": 52.4123748,
+    "lon": 13.5717456
+  },
+  {
+    "id": 413275520,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Bahnhofstraße 33-38",
+    "district": "",
+    "lat": 52.4586902,
+    "lon": 13.5772772
+  },
+  {
+    "id": 419545767,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Badstraße 57-58",
+    "district": "Gesundbrunnen",
+    "lat": 52.5513946,
+    "lon": 13.3828975
+  },
+  {
+    "id": 447962689,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Rauchstraße 56",
+    "district": "Hakenfelde",
+    "lat": 52.5615636,
+    "lon": 13.2138439
+  },
+  {
+    "id": 550113673,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Eschengraben 47",
+    "district": "Pankow",
+    "lat": 52.5565324,
+    "lon": 13.4245088
+  },
+  {
+    "id": 602610690,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Ribnitzer Straße 26",
+    "district": "Neu-Hohenschönhausen",
+    "lat": 52.5696053,
+    "lon": 13.4948001
+  },
+  {
+    "id": 635791562,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Volkradstraße 32",
+    "district": "",
+    "lat": 52.4997073,
+    "lon": 13.5074501
+  },
+  {
+    "id": 653474129,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Kaiserin-Augusta-Straße 57",
+    "district": "Tempelhof",
+    "lat": 52.4599635,
+    "lon": 13.3754022
+  },
+  {
+    "id": 691484696,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Rheinstraße 14",
+    "district": "Friedenau",
+    "lat": 52.469774,
+    "lon": 13.3330975
+  },
+  {
+    "id": 699536319,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Alt-Rudow 64",
+    "district": "",
+    "lat": 52.4170906,
+    "lon": 13.4957148
+  },
+  {
+    "id": 754482402,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "",
+    "district": "",
+    "lat": 52.5629309,
+    "lon": 13.3291819
+  },
+  {
+    "id": 766602125,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.5064837,
+    "lon": 13.3737784
+  },
+  {
+    "id": 808390999,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Randowstraße 3",
+    "district": "",
+    "lat": 52.5671017,
+    "lon": 13.5281012
+  },
+  {
+    "id": 808391009,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Welsestraße 56-58",
+    "district": "",
+    "lat": 52.5649453,
+    "lon": 13.5233157
+  },
+  {
+    "id": 833176050,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Walther-Schreiber-Platz 1",
+    "district": "",
+    "lat": 52.4659019,
+    "lon": 13.3277211
+  },
+  {
+    "id": 849520589,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Pablo-Neruda-Straße 2-4",
+    "district": "",
+    "lat": 52.4418161,
+    "lon": 13.5872323
+  },
+  {
+    "id": 868336319,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Grellstraße 75",
+    "district": "",
+    "lat": 52.5452959,
+    "lon": 13.43009
+  },
+  {
+    "id": 1094096941,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Helene-Weigel-Platz 1",
+    "district": "Marzahn",
+    "lat": 52.5274856,
+    "lon": 13.5383825
+  },
+  {
+    "id": 1110843201,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Chausseestraße 118-120",
+    "district": "Mitte",
+    "lat": 52.5295638,
+    "lon": 13.3839754
+  },
+  {
+    "id": 1112868721,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Rollbergstraße 59",
+    "district": "",
+    "lat": 52.4785578,
+    "lon": 13.4297779
+  },
+  {
+    "id": 1224801762,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Buckower Damm 50",
+    "district": "Britz",
+    "lat": 52.4399784,
+    "lon": 13.4341127
+  },
+  {
+    "id": 1226244579,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Otto-Suhr-Allee 80-82",
+    "district": "Charlottenburg",
+    "lat": 52.5166007,
+    "lon": 13.3101619
+  },
+  {
+    "id": 1254284372,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.5844268,
+    "lon": 13.2852155
+  },
+  {
+    "id": 1336738281,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Skalitzer Straße 134",
+    "district": "Kreuzberg",
+    "lat": 52.4994272,
+    "lon": 13.4187092
+  },
+  {
+    "id": 1391580006,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Schloßstraße 34-36 / Grunewaldstraße 1-3",
+    "district": "Steglitz",
+    "lat": 52.4576732,
+    "lon": 13.3208595
+  },
+  {
+    "id": 1493309776,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Hauptstraße 70",
+    "district": "Französisch Buchholz",
+    "lat": 52.6039283,
+    "lon": 13.4324718
+  },
+  {
+    "id": 1500162209,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Karl-Marx-Straße 92-98",
+    "district": "Neukölln",
+    "lat": 52.4798626,
+    "lon": 13.4357683
+  },
+  {
+    "id": 1585630534,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Schönhauser Allee 80",
+    "district": "",
+    "lat": 52.5493785,
+    "lon": 13.4161791
+  },
+  {
+    "id": 1779257032,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Hermannstraße 158a",
+    "district": "Neukölln",
+    "lat": 52.4674138,
+    "lon": 13.4330094
+  },
+  {
+    "id": 1846783043,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Kastanienallee 38",
+    "district": "Rosenthal",
+    "lat": 52.5918344,
+    "lon": 13.3825893
+  },
+  {
+    "id": 1869640508,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Ernst-Barlach-Straße 19",
+    "district": "",
+    "lat": 52.5749522,
+    "lon": 13.5096346
+  },
+  {
+    "id": 2137158125,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Schönhauser Allee 36-39",
+    "district": "",
+    "lat": 52.5387764,
+    "lon": 13.4127688
+  },
+  {
+    "id": 2251292710,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Mehrower Allee 20",
+    "district": "",
+    "lat": 52.5557728,
+    "lon": 13.5584686
+  },
+  {
+    "id": 3175690877,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Marzahner Promenade 1",
+    "district": "Marzahn",
+    "lat": 52.5444325,
+    "lon": 13.545136
+  },
+  {
+    "id": 3343659747,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Potsdamer Straße 128",
+    "district": "Schöneberg",
+    "lat": 52.4992507,
+    "lon": 13.3621337
+  },
+  {
+    "id": 3382994864,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Neumannstraße 13",
+    "district": "Pankow",
+    "lat": 52.5613117,
+    "lon": 13.4227915
+  },
+  {
+    "id": 4017367047,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Hauptstraße 141-144",
+    "district": "Schöneberg",
+    "lat": 52.4856469,
+    "lon": 13.3561779
+  },
+  {
+    "id": 4761147061,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Landsberger Allee 277",
+    "district": "",
+    "lat": 52.5356385,
+    "lon": 13.4968091
+  },
+  {
+    "id": 5835803818,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Allee der Kosmonauten 196",
+    "district": "Marzahn",
+    "lat": 52.5412661,
+    "lon": 13.5649008
+  },
+  {
+    "id": 5986842514,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Bautzener Straße 36",
+    "district": "Schöneberg",
+    "lat": 52.4915322,
+    "lon": 13.3712919
+  },
+  {
+    "id": 6024482762,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Eldenaer Straße 42",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5204377,
+    "lon": 13.46308
+  },
+  {
+    "id": 6146723586,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.5488014,
+    "lon": 13.3537392
+  },
+  {
+    "id": 6539684111,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.6323439,
+    "lon": 13.289344
+  },
+  {
+    "id": 7090511500,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Alfred-Jung-Straße 12",
+    "district": "",
+    "lat": 52.5231836,
+    "lon": 13.477905
+  },
+  {
+    "id": 7910629136,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Dolgenseestraße 9C-F",
+    "district": "",
+    "lat": 52.4935314,
+    "lon": 13.5074171
+  },
+  {
+    "id": 8064523777,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Köpenicker Straße 192-198",
+    "district": "",
+    "lat": 52.48668,
+    "lon": 13.5596318
+  },
+  {
+    "id": 8278396118,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Pappelallee 47",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5475761,
+    "lon": 13.4190984
+  },
+  {
+    "id": 8367158861,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Heidestraße 41",
+    "district": "",
+    "lat": 52.532281,
+    "lon": 13.3660391
+  },
+  {
+    "id": 8376407522,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.5008204,
+    "lon": 13.3247567
+  },
+  {
+    "id": 9018077984,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Gorkistraße 11-21",
+    "district": "",
+    "lat": 52.5903309,
+    "lon": 13.2865672
+  },
+  {
+    "id": 9167471817,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Kurfürstenstraße 46",
+    "district": "",
+    "lat": 52.5009959,
+    "lon": 13.3588252
+  },
+  {
+    "id": 9294315110,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Wildhüterweg 42-46",
+    "district": "Buckow",
+    "lat": 52.4220395,
+    "lon": 13.448772
+  },
+  {
+    "id": 10046858846,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Großbeerenstraße 62-64",
+    "district": "Mariendorf",
+    "lat": 52.4342421,
+    "lon": 13.3769034
+  },
+  {
+    "id": 10565788625,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Daumstraße 90",
+    "district": "",
+    "lat": 52.5546676,
+    "lon": 13.2260964
+  },
+  {
+    "id": 10607485493,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Marchwitzastraße 29",
+    "district": "Marzahn",
+    "lat": 52.5231528,
+    "lon": 13.5445629
+  },
+  {
+    "id": 10873128906,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Pankstraße 32-39",
+    "district": "",
+    "lat": 52.5494467,
+    "lon": 13.3777062
+  },
+  {
+    "id": 11027556740,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Friedrichstraße 111",
+    "district": "",
+    "lat": 52.525331,
+    "lon": 13.3893156
+  },
+  {
+    "id": 11240723158,
+    "name": "REWE",
+    "brand": "REWE",
+    "address": "Germaniastraße 12-13",
+    "district": "Tempelhof",
+    "lat": 52.4646687,
+    "lon": 13.3950555
+  },
+  {
+    "id": 11256176197,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Oberspreestraße 145",
+    "district": "",
+    "lat": 52.446092,
+    "lon": 13.5641295
+  },
+  {
+    "id": 11286579086,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Breisgauer Straße 3A",
+    "district": "Schlachtensee",
+    "lat": 52.4395154,
+    "lon": 13.2157993
+  },
+  {
+    "id": 13141866731,
+    "name": "REWE",
+    "brand": "Rewe",
+    "address": "Kantstraße 111",
+    "district": "",
+    "lat": 52.5064104,
+    "lon": 13.3070913
+  },
+  {
+    "id": 1778043747,
+    "name": "Rewe City",
+    "brand": "Rewe",
+    "address": "John-Schehr-Straße 20-24",
+    "district": "",
+    "lat": 52.5363423,
+    "lon": 13.4366983
+  },
+  {
+    "id": 264645629,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Südwestkorso 36",
+    "district": "Wilmersdorf",
+    "lat": 52.4686357,
+    "lon": 13.3117953
+  },
+  {
+    "id": 268021255,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Otto-Suhr-Allee 141",
+    "district": "Charlottenburg",
+    "lat": 52.5190008,
+    "lon": 13.3007843
+  },
+  {
+    "id": 274864620,
+    "name": "REWE City",
+    "brand": "REWE",
+    "address": "Pichelsdorfer Straße 110",
+    "district": "Wilhelmstadt",
+    "lat": 52.5246216,
+    "lon": 13.1977106
+  },
+  {
+    "id": 313144196,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Landsberger Allee 68D",
+    "district": "Friedrichshain",
+    "lat": 52.5258345,
+    "lon": 13.4469831
+  },
+  {
+    "id": 373861896,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Schönhauser Allee 130",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5453707,
+    "lon": 13.4123763
+  },
+  {
+    "id": 460331941,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Leipziger Straße 100",
+    "district": "Mitte",
+    "lat": 52.5105082,
+    "lon": 13.3907436
+  },
+  {
+    "id": 505980713,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.4931501,
+    "lon": 13.3830186
+  },
+  {
+    "id": 565034858,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Wundtstraße 26",
+    "district": "Charlottenburg",
+    "lat": 52.5108607,
+    "lon": 13.2918001
+  },
+  {
+    "id": 1143798305,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Greifswalder Straße 155A",
+    "district": "",
+    "lat": 52.5436744,
+    "lon": 13.4412596
+  },
+  {
+    "id": 1468082518,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Rheinstraße 30",
+    "district": "Friedenau",
+    "lat": 52.467044,
+    "lon": 13.3299032
+  },
+  {
+    "id": 1681303281,
+    "name": "REWE City",
+    "brand": "REWE",
+    "address": "Bismarckstraße 68-69",
+    "district": "Steglitz",
+    "lat": 52.4617585,
+    "lon": 13.3396427
+  },
+  {
+    "id": 2251295174,
+    "name": "REWE City",
+    "brand": "REWE",
+    "address": "Angerburger Allee 45",
+    "district": "Westend",
+    "lat": 52.5093116,
+    "lon": 13.2223259
+  },
+  {
+    "id": 2439759173,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Theodor-Heuss-Platz 6",
+    "district": "Westend",
+    "lat": 52.5101504,
+    "lon": 13.2727188
+  },
+  {
+    "id": 2463153046,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Litfaß-Platz 4",
+    "district": "Mitte",
+    "lat": 52.5224239,
+    "lon": 13.403453
+  },
+  {
+    "id": 3117324769,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Friedrichstraße 67-70",
+    "district": "Mitte",
+    "lat": 52.5125166,
+    "lon": 13.3904663
+  },
+  {
+    "id": 3644478493,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Bahnhofstraße 23-25",
+    "district": "",
+    "lat": 52.4577394,
+    "lon": 13.5789184
+  },
+  {
+    "id": 4675037065,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Bismarckstraße 91",
+    "district": "Charlottenburg",
+    "lat": 52.5115365,
+    "lon": 13.3095903
+  },
+  {
+    "id": 5255259068,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "",
+    "district": "",
+    "lat": 52.5289253,
+    "lon": 13.4561482
+  },
+  {
+    "id": 6045901671,
+    "name": "REWE City",
+    "brand": "Rewe",
+    "address": "Konstanzer Straße 53",
+    "district": "",
+    "lat": 52.4955915,
+    "lon": 13.3111985
+  },
+  {
+    "id": 8260370867,
+    "name": "REWE l. Schilling",
+    "brand": "Rewe",
+    "address": "Tempelhofer Weg 11",
+    "district": "Britz",
+    "lat": 52.4585713,
+    "lon": 13.4252698
+  },
+  {
+    "id": 504156978,
+    "name": "REWE M. Görlitz-Krüger",
+    "brand": "REWE",
+    "address": "Schlangenbader Straße 25",
+    "district": "",
+    "lat": 52.4728082,
+    "lon": 13.3077983
+  },
+  {
+    "id": 2238828808,
+    "name": "REWE voll pflanzlich",
+    "brand": "Rewe",
+    "address": "Warschauer Straße 33",
+    "district": "Friedrichshain",
+    "lat": 52.5077097,
+    "lon": 13.4499426
+  },
+  {
+    "id": 9380210013,
+    "name": "Robinhood.store",
+    "brand": "Robinhood.store",
+    "address": "Altenbraker Straße 16",
+    "district": "",
+    "lat": 52.4706754,
+    "lon": 13.4324184
+  },
+  {
+    "id": 621170687,
+    "name": "Russia",
+    "brand": "Russia",
+    "address": "",
+    "district": "",
+    "lat": 52.4379589,
+    "lon": 13.4468721
+  },
+  {
+    "id": 4415604082,
+    "name": "Safrani",
+    "brand": "Safrani",
+    "address": "Wilmersdorfer Straße 44",
+    "district": "Charlottenburg",
+    "lat": 52.5103419,
+    "lon": 13.3053472
+  },
+  {
+    "id": 4537589639,
+    "name": "Sam Markt",
+    "brand": "Sam Markt",
+    "address": "",
+    "district": "",
+    "lat": 52.5441031,
+    "lon": 13.547627
+  },
+  {
+    "id": 4153062561,
+    "name": "Samariter Unverpackt",
+    "brand": "Samariter Unverpackt",
+    "address": "",
+    "district": "",
+    "lat": 52.5170593,
+    "lon": 13.466245
+  },
+  {
+    "id": 3256799991,
+    "name": "Sattva",
+    "brand": "Sattva",
+    "address": "Reichenberger Straße 122",
+    "district": "Kreuzberg",
+    "lat": 52.4952578,
+    "lon": 13.4319395
+  },
+  {
+    "id": 3563938494,
+    "name": "Schnittstelle",
+    "brand": "Schnittstelle",
+    "address": "Urbanstraße 100",
+    "district": "Kreuzberg",
+    "lat": 52.4898742,
+    "lon": 13.422358
+  },
+  {
+    "id": 12346794774,
+    "name": "Schweden-Markt",
+    "brand": "Schweden-Markt",
+    "address": "Clayallee 347a",
+    "district": "",
+    "lat": 52.4362985,
+    "lon": 13.260435
+  },
+  {
+    "id": 2482984708,
+    "name": "Sengül Market",
+    "brand": "Sengül Market",
+    "address": "Triftstraße 5",
+    "district": "Wedding",
+    "lat": 52.5444869,
+    "lon": 13.3600595
+  },
+  {
+    "id": 6362759639,
+    "name": "Sheriffs Beef nah & frisch",
+    "brand": "Sheriffs Beef nah & frisch",
+    "address": "Kurfürstendamm 152",
+    "district": "",
+    "lat": 52.4987,
+    "lon": 13.3014126
+  },
+  {
+    "id": 8922495217,
+    "name": "Shiva Shop - Ayurveda Produkte",
+    "brand": "Shiva Shop - Ayurveda Produkte",
+    "address": "",
+    "district": "",
+    "lat": 52.5239973,
+    "lon": 13.2991114
+  },
+  {
+    "id": 3266123514,
+    "name": "Sila-Markt",
+    "brand": "Sila-Markt",
+    "address": "Turmstraße 37",
+    "district": "Moabit",
+    "lat": 52.5267843,
+    "lon": 13.336889
+  },
+  {
+    "id": 4317329218,
+    "name": "Smak Russische Lebensmittel",
+    "brand": "Smak Russische Lebensmittel",
+    "address": "",
+    "district": "",
+    "lat": 52.5422769,
+    "lon": 13.2057306
+  },
+  {
+    "id": 11114496851,
+    "name": "Sparfood Gutes Gern Günstig",
+    "brand": "Sparfood Gutes Gern Günstig",
+    "address": "",
+    "district": "",
+    "lat": 52.4473516,
+    "lon": 13.6172111
+  },
+  {
+    "id": 730172943,
+    "name": "Spice Junction",
+    "brand": "Spice Junction",
+    "address": "Bülowstraße 44",
+    "district": "Schöneberg",
+    "lat": 52.4954998,
+    "lon": 13.3656826
+  },
+  {
+    "id": 7249782644,
+    "name": "Spreewald Müller",
+    "brand": "Spreewald Müller",
+    "address": "Greifswalder Straße 87",
+    "district": "Prenzlauer Berg",
+    "lat": 52.5419786,
+    "lon": 13.4409498
+  },
+  {
+    "id": 1234107297,
+    "name": "SuperCoop",
+    "brand": "SuperCoop",
+    "address": "Oudenarder Straße 16",
+    "district": "Wedding",
+    "lat": 52.5533553,
+    "lon": 13.358475
+  },
+  {
+    "id": 8327300784,
+    "name": "Supercoop Friedenau",
+    "brand": "Supercoop Friedenau",
+    "address": "Odenwaldstraße 13",
+    "district": "Friedenau",
+    "lat": 52.4672068,
+    "lon": 13.3220012
+  },
+  {
+    "id": 4766133866,
+    "name": "Supermarkt",
+    "brand": "Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.3868759,
+    "lon": 13.3991349
+  },
+  {
+    "id": 11816936442,
+    "name": "Supermarkt Al Qubitry",
+    "brand": "Supermarkt Al Qubitry",
+    "address": "",
+    "district": "",
+    "lat": 52.4504068,
+    "lon": 13.3420791
+  },
+  {
+    "id": 10215601814,
+    "name": "Supermarkt Ali Baba",
+    "brand": "Supermarkt Ali Baba",
+    "address": "Dörpfeldstraße 31",
+    "district": "",
+    "lat": 52.4374569,
+    "lon": 13.5471333
+  },
+  {
+    "id": 13587921011,
+    "name": "Supermarkt FamilienHaus بيت العائلة",
+    "brand": "Supermarkt FamilienHaus بيت العائلة",
+    "address": "",
+    "district": "",
+    "lat": 52.4237681,
+    "lon": 13.4391442
+  },
+  {
+    "id": 729587081,
+    "name": "Tariq Supermarkt",
+    "brand": "Tariq Supermarkt",
+    "address": "",
+    "district": "",
+    "lat": 52.5518382,
+    "lon": 13.382004
+  },
+  {
+    "id": 442390306,
+    "name": "Taste Hellas",
+    "brand": "Taste Hellas",
+    "address": "Tempelhofer Damm 218",
+    "district": "Tempelhof",
+    "lat": 52.4565269,
+    "lon": 13.3836393
+  },
+  {
+    "id": 5353308653,
+    "name": "Tianfu Asien-Supermarkt",
+    "brand": "Tianfu Asien-Supermarkt",
+    "address": "Berliner Straße 15",
+    "district": "Wilmersdorf",
+    "lat": 52.4872214,
+    "lon": 13.3294174
+  },
+  {
+    "id": 1004454203,
+    "name": "Timi Asia Supermarkt",
+    "brand": "Timi Asia Supermarkt",
+    "address": "Kieler Straße 4",
+    "district": "Steglitz",
+    "lat": 52.4584693,
+    "lon": 13.3238971
+  },
+  {
+    "id": 4944997005,
+    "name": "Tugra Gida",
+    "brand": "Tugra Gida",
+    "address": "Hauptstraße 13",
+    "district": "Schöneberg",
+    "lat": 52.4880045,
+    "lon": 13.3577161
+  },
+  {
+    "id": 2748240260,
+    "name": "Vinh-Loi",
+    "brand": "Vinh-Loi",
+    "address": "Müllerstraße 141",
+    "district": "Wedding",
+    "lat": 52.5488826,
+    "lon": 13.3536252
+  },
+  {
+    "id": 12170890855,
+    "name": "Vinh-Loi",
+    "brand": "Vinh-Loi",
+    "address": "",
+    "district": "",
+    "lat": 52.4556476,
+    "lon": 13.3862597
+  },
+  {
+    "id": 2748206479,
+    "name": "Vinh-Loi Asien-Supermarkt",
+    "brand": "Vinh-Loi Asien-Supermarkt",
+    "address": "Gutsmuthsstraße 23-24",
+    "district": "Steglitz",
+    "lat": 52.4644899,
+    "lon": 13.325733
+  },
+  {
+    "id": 5578988343,
+    "name": "Vinh-Loi Asien-Supermarkt",
+    "brand": "Vinh-Loi Asien-Supermarkt",
+    "address": "Ansbacher Straße 16",
+    "district": "Schöneberg",
+    "lat": 52.503302,
+    "lon": 13.3424529
+  },
+  {
+    "id": 2139861397,
+    "name": "Vom Einfachen das Gute",
+    "brand": "Vom Einfachen das Gute",
+    "address": "Olivaer Platz",
+    "district": "Wilmersdorf",
+    "lat": 52.4993882,
+    "lon": 13.3124301
+  },
+  {
+    "id": 13391072733,
+    "name": "Wolt market",
+    "brand": "Wolt market",
+    "address": "Mariendorfer Damm 5",
+    "district": "",
+    "lat": 52.4524938,
+    "lon": 13.3850315
+  },
+  {
+    "id": 9899362016,
+    "name": "World Exotic Foods",
+    "brand": "World Exotic Foods",
+    "address": "Herzbergstraße 128-139",
+    "district": "Lichtenberg",
+    "lat": 52.530073,
+    "lon": 13.4886467
+  },
+  {
+    "id": 9899393717,
+    "name": "World Exotic Fruits",
+    "brand": "World Exotic Fruits",
+    "address": "Herzbergstraße 128-139",
+    "district": "Lichtenberg",
+    "lat": 52.528314,
+    "lon": 13.4903741
+  },
+  {
+    "id": 1465074342,
+    "name": "Wurzelwerk Bioladen",
+    "brand": "Wurzelwerk Bioladen",
+    "address": "Oderstraße 10",
+    "district": "Friedrichshain",
+    "lat": 52.5113295,
+    "lon": 13.4680466
+  },
+  {
+    "id": 1465075423,
+    "name": "Wurzelwerk Bioladen",
+    "brand": "Wurzelwerk Bioladen",
+    "address": "Kaskelstraße 16",
+    "district": "Rummelsburg",
+    "lat": 52.5047115,
+    "lon": 13.477134
+  },
+  {
+    "id": 9451056868,
+    "name": "Zora",
+    "brand": "Zora",
+    "address": "",
+    "district": "",
+    "lat": 52.5080329,
+    "lon": 13.467354
+  },
+  {
+    "id": 12133528214,
+    "name": "Zora",
+    "brand": "Zora",
+    "address": "Bouchéstraße 39",
+    "district": "",
+    "lat": 52.4876817,
+    "lon": 13.444187
+  },
+  {
+    "id": 8960303401,
+    "name": "Zora Supermarket",
+    "brand": "Zora Supermarket",
+    "address": "Kottbusser Damm 93",
+    "district": "",
+    "lat": 52.4936197,
+    "lon": 13.4219745
+  },
+  {
+    "id": 3629578699,
+    "name": "Zora Supermarkt",
+    "brand": "Zora Supermarkt",
+    "address": "Alt-Moabit 74",
+    "district": "",
+    "lat": 52.5241928,
+    "lon": 13.3331988
+  }
+]

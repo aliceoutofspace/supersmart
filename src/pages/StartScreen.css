@@ -1,0 +1,154 @@
+/* ==========================================================================
+   StartScreen Styles
+   ========================================================================== */
+
+.start-screen {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-lg);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* --------------------------------------------------------------------------
+   Header
+   -------------------------------------------------------------------------- */
+
+.start-screen__header {
+  padding: var(--space-sm) 0;
+}
+
+/* --------------------------------------------------------------------------
+   Main Content
+   -------------------------------------------------------------------------- */
+
+.start-screen__main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--space-xl) 0;
+}
+
+/* Greeting */
+.start-screen__greeting {
+  margin-bottom: var(--space-3xl);
+}
+
+.start-screen__title {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-sm);
+  line-height: var(--line-height-tight);
+}
+
+.start-screen__subtitle {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-normal);
+}
+
+/* --------------------------------------------------------------------------
+   Cards Grid
+   -------------------------------------------------------------------------- */
+
+.start-screen__cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-lg);
+  margin-bottom: var(--space-2xl);
+}
+
+.start-screen__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  min-height: 280px;
+  padding: var(--space-2xl) var(--space-xl);
+
+  /* Glassmorphism override */
+  background: rgba(255, 255, 255, 0.22) !important;
+  border: 1px solid rgba(255, 255, 255, 0.50) !important;
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.70) !important;
+  backdrop-filter: blur(28px) !important;
+  -webkit-backdrop-filter: blur(28px) !important;
+}
+
+.start-screen__basket-icon {
+  width: 80px;
+  height: auto;
+}
+
+.start-screen__card-icon {
+  margin-bottom: var(--space-lg);
+}
+
+.start-screen__card-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-xs);
+}
+
+.start-screen__card-date {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-tertiary);
+}
+
+/* --------------------------------------------------------------------------
+   Store Selection
+   -------------------------------------------------------------------------- */
+
+.start-screen__store-select {
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+  padding-top: var(--space-xl);
+}
+
+/* --------------------------------------------------------------------------
+   Responsive Adjustments
+   -------------------------------------------------------------------------- */
+
+/* Tablet */
+@media (min-width: 640px) {
+  .start-screen {
+    padding: var(--space-xl);
+  }
+
+  .start-screen__title {
+    font-size: var(--font-size-3xl);
+  }
+
+  .start-screen__cards {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .start-screen__card {
+    min-height: 300px;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .start-screen {
+    max-width: 1000px;
+  }
+
+  .start-screen__main {
+    justify-content: flex-start;
+    padding-top: var(--space-3xl);
+  }
+
+  .start-screen__cards {
+    max-width: 700px;
+  }
+}

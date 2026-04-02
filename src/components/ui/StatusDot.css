@@ -1,0 +1,115 @@
+/* ==========================================================================
+   StatusDot Component Styles
+   ========================================================================== */
+
+.status-dot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-full);
+  flex-shrink: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Größen
+   -------------------------------------------------------------------------- */
+
+.status-dot--sm {
+  width: 8px;
+  height: 8px;
+}
+
+.status-dot--md {
+  width: 12px;
+  height: 12px;
+}
+
+.status-dot--lg {
+  width: 16px;
+  height: 16px;
+}
+
+/* Für die Map-Ansicht - größere Dots */
+.status-dot--xl {
+  width: 24px;
+  height: 24px;
+}
+
+/* --------------------------------------------------------------------------
+   Status-Farben
+   -------------------------------------------------------------------------- */
+
+.status-dot--available {
+  background-color: var(--color-status-available);
+}
+
+.status-dot--uncertain {
+  background-color: var(--color-status-uncertain);
+}
+
+.status-dot--unknown {
+  background-color: var(--color-status-unknown);
+}
+
+.status-dot--unavailable {
+  background-color: var(--color-status-unavailable);
+}
+
+.status-dot--checked {
+  background-color: var(--color-status-unknown);
+  color: white;
+}
+
+/* --------------------------------------------------------------------------
+   Ring-Variante (für "nächstes Produkt" Highlight)
+   -------------------------------------------------------------------------- */
+
+.status-dot--ring {
+  position: relative;
+}
+
+.status-dot--ring::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: var(--radius-full);
+  border: 2px solid currentColor;
+  opacity: 0.4;
+  
+  /* Animation für Aufmerksamkeit */
+  animation: pulse-ring 2s ease-in-out infinite;
+}
+
+.status-dot--available.status-dot--ring::after {
+  border-color: var(--color-status-available);
+}
+
+@keyframes pulse-ring {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.4;
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 0.2;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Check-Icon (für abgehakte Produkte)
+   -------------------------------------------------------------------------- */
+
+.status-dot__check {
+  width: 60%;
+  height: 60%;
+}
+
+/* --------------------------------------------------------------------------
+   Reduzierte Bewegung
+   -------------------------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .status-dot--ring::after {
+    animation: none;
+  }
+}
