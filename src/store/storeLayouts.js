@@ -179,7 +179,7 @@ export const storeLayouts = {
 
 export function getLayoutForStore(store) {
   const brand = (store?.brand || store?.name || '').toLowerCase()
-  if (brand.includes('rewe'))                                                        return reweLayout
+  if (brand.includes('rewe') || brand.includes('nahkauf'))                           return reweLayout
   if (brand.includes('edeka') || brand.includes('netto'))                            return edekaLayout
   if (brand.includes('aldi') || brand.includes('lidl') || brand.includes('penny'))   return aldiLayout
   if (brand.includes('kaufland') || brand.includes('real'))                          return kauflandLayout
@@ -195,9 +195,9 @@ export function getProductPosition(product, storeLayout) {
   if (!zone) return null
 
   let hash = 0
-  const id = String(product.id)
-  for (let i = 0; i < id.length; i++) {
-    hash = ((hash << 5) - hash + id.charCodeAt(i)) | 0
+  const seed = String(product.id) + '|' + (product.name || '')
+  for (let i = 0; i < seed.length; i++) {
+    hash = ((hash << 5) - hash + seed.charCodeAt(i)) | 0
   }
   hash = Math.abs(hash)
 

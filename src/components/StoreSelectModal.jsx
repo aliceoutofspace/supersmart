@@ -9,7 +9,19 @@ export function StoreSelectModal({ onSelect, onClose }) {
 
   const results = useMemo(() => {
     const q = query.trim().toLowerCase()
-    if (!q) return berlinStores.slice(0, 20)
+    if (!q) {
+      // Show a diverse mix: up to 3 stores per brand, all brands represented
+      const seen = {}
+      const mixed = []
+      for (const s of berlinStores) {
+        const key = (s.brand || '').toLowerCase()
+        if ((seen[key] || 0) < 3) {
+          seen[key] = (seen[key] || 0) + 1
+          mixed.push(s)
+        }
+      }
+      return mixed
+    }
     const tokens = q.split(/\s+/).filter(Boolean)
     return berlinStores
       .filter(s => {

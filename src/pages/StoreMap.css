@@ -63,6 +63,15 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
+  position: relative;
+}
+
+.store-map--mobile .store-map__canvas {
+  cursor: grab;
+}
+
+.store-map--mobile .store-map__canvas--grabbing {
+  cursor: grabbing;
 }
 
 .store-map__svg {
@@ -570,4 +579,243 @@
   .store-map__svg {
     max-width: 680px;
   }
+}
+
+/* --------------------------------------------------------------------------
+   Mobile preview toggle (desktop header button)
+   -------------------------------------------------------------------------- */
+
+.store-map__preview-toggle {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: var(--radius-full);
+  color: rgba(255, 255, 255, 0.9);
+  font-family: var(--font-family);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  padding: 5px 12px 5px 8px;
+  transition: background var(--transition-fast), border-color var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.store-map__preview-toggle svg {
+  width: 14px;
+  height: 14px;
+}
+
+.store-map__preview-toggle:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.store-map__preview-toggle--active {
+  background: rgba(255, 255, 255, 0.28);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* --------------------------------------------------------------------------
+   Zoom toggle button (floating over map, mobile view only)
+   -------------------------------------------------------------------------- */
+
+.store-map__zoom-toggle {
+  position: absolute;
+  bottom: var(--space-sm);
+  right: var(--space-sm);
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-full);
+  border: 1.5px solid rgba(255, 255, 255, 0.25);
+  background: rgba(0, 0, 0, 0.38);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: rgba(255, 255, 255, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background var(--transition-fast), border-color var(--transition-fast),
+    transform var(--transition-fast);
+  z-index: 10;
+}
+
+.store-map__zoom-toggle svg {
+  width: 18px;
+  height: 18px;
+}
+
+.store-map__zoom-toggle:active {
+  transform: scale(0.92);
+}
+
+.store-map__zoom-toggle--out {
+  background: rgba(143, 168, 114, 0.48);
+  border-color: rgba(143, 168, 114, 0.65);
+}
+
+/* --------------------------------------------------------------------------
+   Mobile bottom sheet
+   -------------------------------------------------------------------------- */
+
+.store-map__mobile-sheet {
+  background: var(--color-surface);
+  border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+  padding: var(--space-lg);
+  padding-bottom: calc(var(--space-lg) + env(safe-area-inset-bottom, 0px));
+  box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.14);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.store-map__mobile-product-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-md);
+}
+
+.store-map__mobile-product-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.store-map__mobile-product-name {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-tight);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.store-map__mobile-product-zone {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  margin-top: 3px;
+}
+
+.store-map__mobile-count {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-tertiary);
+  font-weight: var(--font-weight-medium);
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding-top: 3px;
+}
+
+/* Mobile action buttons */
+
+.store-map__mobile-actions {
+  display: flex;
+  gap: var(--space-sm);
+  margin-top: var(--space-md);
+}
+
+.store-map__mobile-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-xs);
+  padding: var(--space-sm) var(--space-md);
+  border: none;
+  border-radius: var(--radius-lg);
+  font-family: var(--font-family);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  transition: opacity var(--transition-fast), transform var(--transition-fast);
+  min-height: 46px;
+}
+
+.store-map__mobile-btn:active {
+  transform: scale(0.97);
+  opacity: 0.85;
+}
+
+.store-map__mobile-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
+.store-map__mobile-btn--found {
+  background: rgba(155, 198, 92, 0.15);
+  color: var(--color-status-available);
+  border: 1.5px solid rgba(155, 198, 92, 0.35);
+}
+
+.store-map__mobile-btn--found:hover {
+  background: rgba(155, 198, 92, 0.25);
+}
+
+.store-map__mobile-btn--notfound {
+  background: rgba(212, 100, 92, 0.1);
+  color: var(--color-status-unavailable);
+  border: 1.5px solid rgba(212, 100, 92, 0.3);
+}
+
+.store-map__mobile-btn--notfound:hover {
+  background: rgba(212, 100, 92, 0.18);
+}
+
+/* Upcoming items chips */
+
+.store-map__mobile-upcoming {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.store-map__mobile-upcoming::-webkit-scrollbar {
+  display: none;
+}
+
+.store-map__mobile-upcoming-label {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-tertiary);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.store-map__mobile-chip {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-family);
+  color: var(--color-text-secondary);
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  padding: 5px 13px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: background var(--transition-fast), border-color var(--transition-fast),
+    color var(--transition-fast);
+}
+
+.store-map__mobile-chip--active {
+  background: rgba(143, 168, 114, 0.18);
+  border-color: var(--color-primary);
+  color: var(--color-primary-dark);
+  font-weight: var(--font-weight-medium);
+}
+
+.store-map__mobile-chip--more {
+  color: var(--color-text-tertiary);
+  background: transparent;
+  border-color: transparent;
+}
+
+/* Focused ring for non-current products viewed via chip tap */
+.store-map__dot-ring--focused {
+  stroke: var(--color-status-uncertain);
+  animation: none;
+  opacity: 0.6;
 }

@@ -1,10 +1,6 @@
+import { Link } from 'react-router-dom'
 import './Logo.css'
 
-/**
- * SuperSmart Logo
- * 
- * Das charakteristische Location-Pin Icon mit dem App-Namen.
- */
 export function Logo({ size = 'md', showText = true, className = '' }) {
   const classes = [
     'logo',
@@ -13,7 +9,7 @@ export function Logo({ size = 'md', showText = true, className = '' }) {
   ].filter(Boolean).join(' ')
 
   return (
-    <div className={classes}>
+    <Link to="/" className={classes}>
       <div className="logo__icon">
         <svg viewBox="0 0 48 48" fill="none">
           {/* Äußerer Kreis mit Gradient */}
@@ -39,7 +35,7 @@ export function Logo({ size = 'md', showText = true, className = '' }) {
       {showText && (
         <span className="logo__text">SupersMart</span>
       )}
-    </div>
+    </Link>
   )
 }
 
