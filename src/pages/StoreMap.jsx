@@ -298,7 +298,7 @@ export function StoreMap() {
       <div className="store-map__canvas" ref={canvasRef}>
         {storeLayout && (
           // viewBox is written directly via svgRef — no motion.g needed
-          <svg ref={svgRef} viewBox={`0 0 ${SVG_W} ${SVG_H}`} className="store-map__svg">
+          <svg ref={svgRef} className="store-map__svg">
             <rect x={0} y={0} width={storeLayout.width} height={storeLayout.height} rx={10} className="store-map__floor" />
 
             {storeLayout.zones?.map(z => (
