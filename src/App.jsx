@@ -21,7 +21,7 @@ import './App.css'
  */
 function App() {
   return (
-    <BrowserRouter basename="/supersmart">
+    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '')}>
       <div className="app">
         <AnimatePresence mode="wait">
           <Routes>
