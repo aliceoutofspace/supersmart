@@ -60,6 +60,12 @@
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: var(--space-lg);
   margin-bottom: var(--space-2xl);
+  align-items: stretch;
+}
+
+.start-screen__cards > * {
+  display: flex;
+  flex-direction: column;
 }
 
 .start-screen__card {
@@ -68,6 +74,7 @@
   align-items: center;
   text-align: center;
   min-height: 160px;
+  height: 100%;
   padding: var(--space-lg) var(--space-lg);
 
   /* Glassmorphism override */

@@ -21,7 +21,7 @@ import './App.css'
  */
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/supersmart">
       <div className="app">
         <AnimatePresence mode="wait">
           <Routes>
